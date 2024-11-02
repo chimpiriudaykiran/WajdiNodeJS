@@ -1,0 +1,1179 @@
+{
+  "paper1": {
+    "title": "Bug reports evolution in open source systems",
+    "authors": ["Wajdi Aljedaani", "Yasir Javed"],
+    "date": "January, 2018",
+    "year": 2018,
+    "links": {
+      "pdf": "/publication/papers/paper1.pdf",
+      "cite": "/publication/cites/paper1.bib",
+      "doi": "http://dx.doi.org/10.1007/978-3-319-78753-4_6"
+    },
+    "abstract": "Open Source Software communities usually utilize open bug reporting\n            system to enable users to report and fix bugs. In addition, the\n            lifetime of most open source system stays for long periods of time.\n            In this work, we comprehensively examine the evolution of bug\n            reports in four different open source systems from various\n            languages. The selected project are analyzed since 2004 in order to\n            find how many bugs are reported compared to their resolution. We\n            report our results and some recommendations to the open source\n            community.",
+    "type": "Conference paper",
+    "publication": "5th International Symposium on Data Mining Applications",
+    "tags": ["bug-report", "software-repository-mining"]
+  },
+  "paper2": {
+    "title": "Learning to rank faulty source files for dependent bug reports",
+    "authors": [
+      "Nasir Safdari",
+      "Hussein Alrubaye",
+      "Wajdi Aljedaani",
+      "Bladimir Baez Baez",
+      "Andrew DiStasi",
+      "Mohamed Wiem Mkaouer"
+    ],
+    "date": "January, 2019",
+    "year": 2019,
+    "links": {
+      "pdf": "/publication/papers/paper2.pdf",
+      "cite": "/publication/cites/paper2.bib",
+      "doi": "https://www.researchgate.net/profile/Wajdi-Aljedaani-2/publication/333063270_Learning_to_rank_faulty_source_files_for_dependent_bug_reports/links/5f31ccd7458515b7291545e4/Learning-to-rank-faulty-source-files-for-dependent-bug-reports.pdf"
+    },
+    "abstract": "With the rise of autonomous systems, the automation of faults\n            detection and localization becomes critical to their reliability. An\n            automated strategy that can provide a ranked list of faulty modules\n            or files with respect to how likely they contain the root cause of\n            the problem would help in the automation bug localization. Learning\n            from the history if previously located bugs in general, and\n            extracting the dependencies between these bugs in particular, helps\n            in building models to accurately localize any potentially detected\n            bugs. In this study, we propose a novel fault localization solution\n            based on a learning-to-rank strategy, using the history of\n            previously localized bugs and their dependencies as features, to\n            rank files in terms of their likelihood of being a root cause of a\n            bug. The evaluation of our approach has shown its efficiency in\n            localizing dependent bugs.",
+    "type": "Conference paper",
+    "publication": "Big data: learning, analytics, and applications",
+    "tags": [
+      "machine-learning",
+      "deep-learning",
+      "bug-report",
+      "software-repository-mining"
+    ]
+  },
+  "paper3": {
+    "title": "A comparison of bugs across the ios and android platforms of two\n            open source cross platform browser apps",
+    "authors": [
+      "Wajdi Aljedaani",
+      "Meiyappan Nagappan",
+      "Bram Adams",
+      "Michael Godfrey"
+    ],
+    "date": "May, 2019",
+    "year": 2019,
+    "links": {
+      "pdf": "/publication/papers/paper3.pdf",
+      "cite": "/publication/cites/paper3.bib",
+      "doi": "https://ieeexplore.ieee.org/abstract/document/8816964"
+    },
+    "abstract": "Mobile app developers want to maximize their revenue and hence want\n            to reach as large an audience as possible. In order to do this, they\n            need to build apps for multiple platforms - like Google\u2019s\n            Android and Apple\u2019s iOS, and maintain them in parallel. Past\n            research has examined properties of the issues addressed in either\n            Android or iOS, but not to compare the work between both. Our main\n            motivation has been to determine if there were differences in how\n            issues manifest themselves in iOS and Android, when we control for\n            the projects, by considering the same apps across multiple\n            platforms. In this paper, we compare issues across two mobile\n            platforms - iOS and Android - for two open source browsers - Mozilla\n            Firefox and Google Chromium.",
+    "type": "Conference paper",
+    "publication": "2019 IEEE/ACM 6th International Conference on Mobile Software\n                  Engineering and Systems (MOBILESoft)",
+    "tags": [
+      "bug-report",
+      "mobile-application",
+      "android-applications",
+      "software-repository-mining"
+    ]
+  },
+  "paper4": {
+    "title": "Empirical study of software test suite evolution",
+    "authors": ["Wajdi Aljedaani", "Yasir Javed"],
+    "date": "January, 2020",
+    "year": 2020,
+    "links": {
+      "pdf": "/publication/papers/paper4.pdf",
+      "cite": "/publication/cites/paper4.bib",
+      "doi": "https://www.researchgate.net/profile/Wajdi-Aljedaani-2/publication/340121001_Empirical_Study_of_Software_Test_Suite_Evolution/links/5f226ed5458515b729f33382/Empirical-Study-of-Software-Test-Suite-Evolution.pdf"
+    },
+    "abstract": "In a variety of market environments, open-source software plays a\n            major role these days. Open-source systems have expanded to the\n            research area from only academic projects. There are more than\n            thousands of successful and effective open source projects to be\n            checked and their level of performance requires to be calculated.\n            The reliability of software systems can be measured in several\n            respects. Essentially, the ability to detect and locate flaws in\n            test cases is measured. This research aims to identify a good\n            technique for evaluating the efficacy of test cases in open source\n            systems to identify defects. This research study focused on six OSS\n            projects (Open Source Software) publicly available. This study tends\n            to find a relationship between software code suites and test code\n            suites in terms of software evolution.",
+    "type": "Conference paper",
+    "publication": "2020 6th Conference on Data Science and Machine Learning\n                  Applications (CDMA)",
+    "tags": ["bug-report", "software-repository-mining", "unit-test"]
+  },
+  "paper5": {
+    "title": "LDA categorization of security bug reports in chromium projects",
+    "authors": ["Wajdi Aljedaani", "Yasir Javed", "Mamdouh Alenezi"],
+    "date": "January, 2020",
+    "year": 2020,
+    "links": {
+      "pdf": "/publication/papers/paper5.pdf",
+      "cite": "/publication/cites/paper5.bib",
+      "doi": "https://dl.acm.org/doi/abs/10.1145/3393822.3432335"
+    },
+    "abstract": "Security bug reports (SBR) depict potential security vulnerabilities\n            in software systems. Bug tracking systems (BTS) usually contain huge\n            numbers of bug reports including security-related ones. Malicious\n            attackers could exploit these SBRs. Henceforth, it is very critical\n            to pinpoint SBRs swiftly and correctly. In this work, we studied the\n            security bug reports of the Chromium project. We looked into three\n            main aspects of these bug reports, namely frequencies of reporting\n            them, how quickly they get fixed and is LDA effective in grouping\n            these reports to known vulnerabilities types. We report our findings\n            in these aspects.",
+    "type": "Conference paper",
+    "publication": "Proceedings of the 2020 European symposium on software\n                  engineering",
+    "tags": ["bug-report", "software-repository-mining", "lda"]
+  },
+  "paper6": {
+    "title": "Learning to rank developers for bug report assignment",
+    "authors": [
+      "Bader Alkhazi",
+      "Andrew DiStasi",
+      "Wajdi Aljedaani",
+      "Hussein Alrubaye",
+      "Xin Ye",
+      "Mohamed Wiem Mkaouer"
+    ],
+    "date": "January, 2020",
+    "year": 2020,
+    "links": {
+      "pdf": "/publication/papers/paper6.pdf",
+      "cite": "/publication/cites/paper6.bib",
+      "doi": "https://www.sciencedirect.com/science/article/abs/pii/S1568494620306050"
+    },
+    "abstract": "Bug assignment is a burden for projects receiving many bug reports.\n            To automate the process of assigning bug reports to the appropriate\n            developers, several studies have relied on combining natural\n            language processing and information retrieval techniques to extract\n            two categories of features. One of these categories targets\n            developers who have fixed similar bugs before, and the other\n            determines developers working on source files similar to the\n            description of the bug. Commit messages represent another rich\n            source for profiling developer expertise as the language used in\n            commit messages is closer to that used in bug reports.",
+    "type": "Journal article",
+    "publication": "Applied Soft Computing",
+    "tags": [
+      "machine-learning",
+      "deep-learning",
+      "bug-report",
+      "software-repository-mining"
+    ]
+  },
+  "paper7": {
+    "title": "Open source systems bug reports: Meta-analysis",
+    "authors": ["Wajdi Aljedaani", "Yasir Javed", "Mamdouh Alenezi"],
+    "date": "January, 2020",
+    "year": 2020,
+    "links": {
+      "pdf": "/publication/papers/paper7.pdf",
+      "cite": "/publication/cites/paper7.bib",
+      "doi": "https://dl.acm.org/doi/abs/10.1145/3396452.3396459"
+    },
+    "abstract": "Bug Tracking System (BTS) is a wealthy source of software\n            development information. They contain many insights about the health\n            status of the software project. Making sense of this information is\n            a big challenge to software development communities. In this work,\n            we perform an investigation on fixing time, components, and\n            platforms related to five open source systems hosted by Bugzilla.\n            The motive is to identify what are the most error-prone components\n            and to allocate the right developer to fix the bug. The results are\n            indicators for how data in BTS should be utilized for\n            decision-making processes. The results reveal a strong relationship\n            between bugs and committers, where it is seen that committer is\n            usually related to fixing a single domain of bugs that also shows\n            their expertise.",
+    "type": "Conference paper",
+    "publication": "Proceedings of the 2020 The 3rd International Conference on\n                  Big Data and Education",
+    "tags": ["bug-report", "software-repository-mining"]
+  },
+  "paper8": {
+    "title": "Factors Affecting Intention to Adopt Open Source ERP Systems by SMEs\n            in Yemen",
+    "authors": [
+      "Abdullatif Ghallab",
+      "Ali Almuzaiqer",
+      "Abdullah Al-Hashedi",
+      "Abdulqader Mohsen",
+      "Kamal Bechkoum",
+      "Wajdi Aljedaani"
+    ],
+    "date": "January, 2021",
+    "year": 2021,
+    "links": {
+      "pdf": "/publication/papers/paper8.pdf",
+      "cite": "/publication/cites/paper8.bib",
+      "doi": "https://ieeexplore.ieee.org/abstract/document/9615254"
+    },
+    "abstract": "Small and medium-sized enterprises (SMEs) are significant\n            contributors to countries\u2019 economic activities. SMEs need to\n            use enterprise resource planning (ERP) systems to increase revenue\n            and productivity. Due to the high licensing costs of these systems,\n            open source ERP (OSERP) could be an alternative solution to this\n            problem. This study investigates the factors affecting the intention\n            to adopt the OSERP system by SMEs in Yemen using the\n            Technology-Organization-Environment (TOE) Framework and The\n            Diffusion of Innovation (DOI) Theory. Using a questionnaire, data\n            were collected from a sample of 600 subjects. The model was\n            validated empirically using Structural Equation Modeling (SEM).",
+    "type": "Conference paper",
+    "publication": "2021 International Conference on Intelligent Technology,\n                  System and Service for Internet of Everything (ITSS-IoE)",
+    "tags": ["databse", "big-data"]
+  },
+  "paper9": {
+    "title": "Finding the needle in a haystack: On the automatic identification of\n            accessibility user reviews",
+    "authors": [
+      "Eman Abdullah AlOmar",
+      "Wajdi Aljedaani",
+      "Murtaza Tamjeed",
+      "Mohamed Wiem Mkaouer",
+      "Yasmine N El-Glaly"
+    ],
+    "date": "January, 2021",
+    "year": 2021,
+    "links": {
+      "pdf": "/publication/papers/paper9.pdf",
+      "cite": "/publication/cites/paper9.bib",
+      "doi": "https://dl.acm.org/doi/abs/10.1145/3411764.3445281",
+      "dataset": "https://smilevo.github.io/access/CHI21_index.html",
+      "video": "https://youtu.be/LViDO-KEHtc",
+      "prevideo": "https://youtu.be/q9bLpWdL_p8"
+    },
+    "abstract": "In recent years, mobile accessibility has become an important trend\n            with the goal of allowing all users the possibility of using any app\n            without many limitations. User reviews include insights that are\n            useful for app evolution. However, with the increase in the amount\n            of received reviews, manually analyzing them is tedious and\n            time-consuming, especially when searching for accessibility reviews.\n            The goal of this paper is to support the automated identification of\n            accessibility in user reviews, to help technology professionals in\n            prioritizing their handling, and thus, creating more inclusive apps.\n            Particularly, we design a model that takes as input accessibility\n            user reviews, learns their keyword-based features, in order to make\n            a binary decision, for a given review, on whether it is about\n            accessibility or not. The model is evaluated using a total of 5,326\n            mobile app reviews.",
+    "type": "Conference paper",
+    "publication": "Proceedings of the 2021 CHI conference on human factors in\n                  computing systems",
+    "tags": [
+      "user-review",
+      "accessibility",
+      "machine-learning",
+      "mobile-application",
+      "android-applications"
+    ]
+  },
+  "paper10": {
+    "title": "I cannot see you\u2014the perspectives of deaf students to online\n            learning during covid-19 pandemic: Saudi arabia case study",
+    "authors": [
+      "Wajdi Aljedaani",
+      "Mona Aljedaani",
+      "Eman Abdullah AlOmar",
+      "Stephanie Ludi",
+      "Mohamed Wiem Mkaouer",
+      "Yousef Bani Khalaf"
+    ],
+    "date": "January, 2021",
+    "year": 2021,
+    "links": {
+      "pdf": "/publication/papers/paper10.pdf",
+      "cite": "/publication/cites/paper10.bib",
+      "doi": "https://www.mdpi.com/2227-7102/11/11/712",
+      "dataset": "https://zenodo.org/record/5638412"
+    },
+    "abstract": "The COVID-19 pandemic brought about many challenges to course\n            delivery methods, which have forced institutions to rapidly change\n            and adopt innovative approaches to provide remote instruction as\n            effectively as possible. Creating and preparing content that ensures\n            the success of all students, including those who are deaf and\n            hard-of-hearing has certainly been an all-around challenge. This\n            study aims to investigate the e-learning experiences of deaf\n            students, focusing on the college of the Technical and Vocational\n            Training Corporation (TVTC) in the Kingdom of Saudi Arabia (KSA).\n            Particularly, we study the challenges and concerns faced by deaf\n            students during the sudden shift to online learning. We used a\n            mixed-methods approach by conducting a survey as well as interviews\n            to obtain the information we needed. Our study delivers several\n            important findings. Our results report problems with internet\n            access, inadequate support, inaccessibility of content from learning\n            systems, among other issues. Considering our findings, we argue that\n            institutions should consider a procedure to create more accessible\n            technology that is adaptable during the pandemic to serve\n            individuals with diverse needs.",
+    "type": "Journal article",
+    "publication": "Education Sciences",
+    "tags": [
+      "education",
+      "e-learning",
+      "accessibility",
+      "deaf-hard-of-hearing",
+      "covid-19"
+    ]
+  },
+  "paper11": {
+    "title": "Learning sentiment analysis for accessibility user reviews",
+    "authors": [
+      "Wajdi Aljedaani",
+      "Furqan Rustam",
+      "Stephanie Ludi",
+      "Ali Ouni",
+      "Mohamed Wiem Mkaouer"
+    ],
+    "date": "January, 2021",
+    "year": 2021,
+    "links": {
+      "pdf": "/publication/papers/paper11.pdf",
+      "cite": "/publication/cites/paper11.bib",
+      "doi": "https://ieeexplore.ieee.org/abstract/document/9680319",
+      "video": "https://youtu.be/Fm8Us2en4bk"
+    },
+    "abstract": "Nowadays, people use different ways to express emotions and\n            sentiments such as facial expressions, gestures, speech, and text.\n            With the exponentially growing popularity of mobile applications\n            (apps), accessibility apps have gained importance in recent years as\n            it allows users with specific needs to use an app without many\n            limitations. User reviews provide insightful information that helps\n            for app evolution. Previously, work has been done on analyzing the\n            accessibility in mobile applications using machine learning\n            approaches. However, to the best of our knowledge, there is no work\n            done using sentiment analysis approaches to understand better how\n            users feel about accessibility in mobile apps. To address this gap,\n            we propose a new approach on an accessibility reviews dataset, where\n            we use two sentiment analyzers, i.e., TextBlob and VADER along with\n            Term Frequency\u2014Inverse Document Frequency.",
+    "type": "Conference paper",
+    "publication": "2021 36th IEEE/ACM International Conference on Automated\n                  Software Engineering Workshops (ASEW)",
+    "tags": [
+      "mobile-application",
+      "user-review",
+      "accessibility",
+      "sentiment-analysis",
+      "machine-learning",
+      "android-applications"
+    ]
+  },
+  "paper12": {
+    "title": "On the classification of bug reports to improve bug localization",
+    "authors": [
+      "Fan Fang",
+      "John Wu",
+      "Yanyan Li",
+      "Xin Ye",
+      "Wajdi Aljedaani",
+      "Mohamed Wiem Mkaouer"
+    ],
+    "date": "January, 2021",
+    "year": 2021,
+    "links": {
+      "pdf": "/publication/papers/paper12.pdf",
+      "cite": "/publication/cites/paper12.bib",
+      "doi": "https://link.springer.com/article/10.1007/s00500-021-05689-2"
+    },
+    "abstract": "Bug localization is the automated process of finding the possible\n            faulty files in a software project. Bug localization allows\n            developers to concentrate on vital files. Information retrieval\n            (IR)-based approaches have been proposed to assist automatically\n            identify software defects by using bug report information. However,\n            some bug reports that are not semantically related to the relevant\n            code are not helpful to IR-based systems. Running an IR-based\n            reporting system can lead to false-positive results. In this paper,\n            we propose a classification model for classifying a bug report as\n            either uninformative or informative. Our approach helps to lower\n            false positives and increase ranking performances by filtering\n            uninformative information before running an IR-based bug location\n            system. The model is based on implicit features learned from bug\n            reports that use neural networks and explicit features defined\n            manually.",
+    "type": "Journal article",
+    "publication": "Soft Computing",
+    "tags": [
+      "machine-learning",
+      "deep-learning",
+      "bug-report",
+      "software-repository-mining"
+    ]
+  },
+  "paper13": {
+    "title": "Recommending pull request reviewers based on code changes",
+    "authors": [
+      "Xin Ye",
+      "Yongjie Zheng",
+      "Wajdi Aljedaani",
+      "Mohamed Wiem Mkaouer"
+    ],
+    "date": "January, 2021",
+    "year": 2021,
+    "links": {
+      "pdf": "/publication/papers/paper13.pdf",
+      "cite": "/publication/cites/paper13.bib",
+      "doi": "https://link.springer.com/article/10.1007/s00500-020-05559-3"
+    },
+    "abstract": "Pull-based development supports collaborative distributed\n            development. It enables developers to collaborate on projects hosted\n            on GitHub. If a developer wants to collaborate on a project, he/she\n            will fork the repository, make modifications on the forked\n            repository and send a pull request to the development team to ask\n            for a merge of the code changes to the official repository. When the\n            development team receives a pull request, the team members will\n            review the changes and make a decision on whether to accept the\n            changes or not. However, efficiently finding suitable pull request\n            reviewers is a challenge. In this paper, we propose a\n            multi-instance-based deep neural network model to recommend\n            reviewers for pull requests. Given a pull request, our model\n            extracts three features, which pull request title, commit message,\n            and code change.",
+    "type": "Journal article",
+    "publication": "Soft Computing",
+    "tags": [
+      "machine-learning",
+      "deep-learning",
+      "pull-request",
+      "software-repository-mining"
+    ]
+  },
+  "paper14": {
+    "title": "Test smell detection tools: A systematic mapping study",
+    "authors": [
+      "Wajdi Aljedaani",
+      "Anthony Peruma",
+      "Ahmed Aljohani",
+      "Mazen Alotaibi",
+      "Mohamed Wiem Mkaouer",
+      "Ali Ouni",
+      "Christian D Newman",
+      "Abdullatif Ghallab",
+      "Stephanie Ludi"
+    ],
+    "date": "January, 2021",
+    "year": 2021,
+    "links": {
+      "pdf": "/publication/papers/paper14.pdf",
+      "cite": "/publication/cites/paper14.bib",
+      "doi": "https://dl.acm.org/doi/abs/10.1145/3463274.3463335",
+      "dataset": "https://zenodo.org/record/4726288",
+      "video": "https://youtu.be/h9g437vU2gg",
+      "prevideo": "https://youtu.be/OKIN6CoPSgo"
+    },
+    "abstract": "Test smells are defined as sub-optimal design choices developers\n            make when implementing test cases. Hence, similar to code smells,\n            the research community has produced numerous test smell detection\n            tools to investigate the impact of test smells on the quality and\n            maintenance of test suites. However, little is known about the\n            characteristics, type of smells, target language, and availability\n            of these published tools. In this paper, we provide a detailed\n            catalog of all known, peer-reviewed, test smell detection tools.We\n            start with performing a comprehensive search of peer-reviewed\n            scientific publications to construct a catalog of 22 tools. Then, we\n            perform a comparative analysis to identify the smell types detected\n            by each tool and other salient features that include programming\n            language, testing framework support, detection strategy, and\n            adoption, among others.",
+    "type": "Conference paper",
+    "publication": "Evaluation and Assessment in Software Engineering",
+    "tags": [
+      "test-smells",
+      "unit-test",
+      "systematic-mapping",
+      "detection-tools"
+    ]
+  },
+  "paper15": {
+    "title": "Vector mosquito image classification using novel RIFS feature\n            selection and machine learning models for disease epidemiology",
+    "authors": [
+      "Furqan Rustam",
+      "Aijaz Ahmad Reshi",
+      "Wajdi Aljedaani",
+      "Abdulaziz Alhossan",
+      "Abid Ishaq",
+      "Shabana Shafi",
+      "Ernesto Lee",
+      "Ziyad Alrabiah",
+      "Hessa Alsuwailem",
+      "Ajaz Ahmad",
+      "Vaibhav Rupapara"
+    ],
+    "date": "January, 2022",
+    "year": 2022,
+    "links": {
+      "pdf": "/publication/papers/paper15.pdf",
+      "cite": "/publication/cites/paper15.bib",
+      "doi": "https://www.sciencedirect.com/science/article/pii/S1319562X21008226"
+    },
+    "abstract": "Every year about one million people die due to diseases transmitted\n            by mosquitoes. The infection is transmitted to a person when an\n            infected mosquito stings, injecting the saliva into the human body.\n            The best possible way to prevent a mosquito-borne infection till\n            date is to save the humans from exposure to mosquito bites. This\n            study proposes a Machine Learning (ML) and Deep Learning based\n            system to detect the presence of two critical disease spreading\n            classes of mosquitoes such as the Aedes and Culex. The proposed\n            system will effectively aid in epidemiology to design evidence-based\n            policies and decisions by analyzing the risks and transmission. The\n            study proposes an effective methodology for the classification of\n            mosquitoes using ML and CNN models.",
+    "type": "Journal article",
+    "publication": "Saudi Journal of Biological Sciences",
+    "tags": ["machine-learning", "deep-learning", "image-classification"]
+  },
+  "paper16": {
+    "title": "Research Article Predicting Pulsars from Imbalanced Dataset with\n            Hybrid Resampling Approach",
+    "authors": [
+      "Ernesto Lee",
+      "Furqan Rustam",
+      "Wajdi Aljedaani",
+      "Abid Ishaq",
+      "Vaibhav Rupapara",
+      "Imran Ashraf"
+    ],
+    "date": "January, 2021",
+    "year": 2021,
+    "links": {
+      "pdf": "/publication/papers/paper16.pdf",
+      "cite": "/publication/cites/paper16.bib",
+      "doi": "https://doi.org/10.1155/2021/4916494"
+    },
+    "abstract": "Pulsar stars, usually neutron stars, are spherical and compact\n            objects containing a large quantity of mass. Each pulsar star\n            possesses a magnetic field and emits a slightly different pattern of\n            electromagnetic radiation which is used to identify the potential\n            candidates for a real pulsar star. Pulsar stars are considered an\n            important cosmic phenomenon, and scientists use them to study\n            nuclear physics, gravitational waves, and collisions between black\n            holes. Defining the process of automatic detection of pulsar stars\n            can accelerate the study of pulsar stars by scientists. is study\n            contrives an accurate and efficient approach for true pulsar\n            detection using supervised machine learning. For experiments, the\n            high time-resolution (HTRU2) dataset is used in this study. To\n            resolve the data imbalance problem and overcome model overfitting, a\n            hybrid resampling approach is presented in this study. Experiments\n            are performed with imbalanced and balanced datasets using well-known\n            machine learning algorithms. Results demonstrate that the proposed\n            hybrid resampling approach proves highly influential to avoid model\n            overfitting and increase the prediction accuracy. With the proposed\n            hybrid resampling approach, the extra tree classifier achieves a\n            0.993 accuracy score for true pulsar star prediction.",
+    "type": "Journal article",
+    "publication": "",
+    "tags": ["machine-learning", "deep-learning"]
+  },
+  "paper17": {
+    "title": "Racism detection by analyzing differential opinions through\n            sentiment analysis of tweets using stacked ensemble gcr-nn model",
+    "authors": [
+      "Ernesto Lee",
+      "Furqan Rustam",
+      "Patrick Bernard Washington",
+      "Fatima El Barakaz",
+      "Wajdi Aljedaani",
+      "Imran Ashraf"
+    ],
+    "date": "January, 2022",
+    "year": 2022,
+    "links": {
+      "pdf": "/publication/papers/paper17.pdf",
+      "cite": "/publication/cites/paper17.bib",
+      "doi": "https://ieeexplore.ieee.org/abstract/document/9684891/"
+    },
+    "abstract": "With social media\u2019s dominating role in the socio-political\n            landscape, several existing and new forms of racism took place on\n            social media. Racism has emerged on social media in different forms,\n            both hidden and open, hidden with the use of memes and open as the\n            racist remarks using fake identities to incite hatred, violence, and\n            social instability. Although often associated with ethnicity, racism\n            is now thriving based on color, origin, language, cultures, and most\n            importantly religion. Social media opinions and remarks provocating\n            racial differences have been regarded as a serious threat to social,\n            political, and cultural stability and have threatened the peace of\n            different countries. Consequently, social media being the leading\n            source of racist opinions dissemination should be monitored and\n            racism remarks should be detected and blocked timely.",
+    "type": "Journal article",
+    "publication": "IEEE Access",
+    "tags": [
+      "machine-learning",
+      "deep-learning",
+      "sentiment-analysis",
+      "social-media"
+    ]
+  },
+  "paper18": {
+    "title": "Toward Leveraging Artificial Intelligence to Support the\n            Identification of Accessibility Challenges",
+    "authors": ["Wajdi Aljedaani"],
+    "date": "May, 2023",
+    "year": 2023,
+    "links": {
+      "pdf": "/publication/papers/paper18.pdf",
+      "cite": "/publication/cites/paper18.bib",
+      "doi": ""
+    },
+    "abstract": "The goal of this thesis is to support the automated identification\n            of accessibility in user reviews or bug reports, to help technology\n            professionals prioritize their handling, and, thus, to create more\n            inclusive apps. Particularly, we propose a model that takes as input\n            accessibility user reviews or bug reports and learns their\n            keyword-based features to make a classification decision, for a\n            given review, on whether it is about accessibility or not. Our\n            empirically driven study follows a mixture of qualitative and\n            quantitative methods. We introduced models that can accurately\n            identify accessibility reviews and bug reports and automate\n            detecting them. Our models can automatically classify app reviews\n            and bug reports as accessibility-related or not so developers can\n            easily detect accessibility issues with their products and improve\n            them to more accessible and inclusive apps utilizing the users'\n            input. Our goal is to create a sustainable change by including a\n            model in the developer's software maintenance pipeline and raising\n            awareness of existing errors that hinder the accessibility of mobile\n            apps, which is a pressing need. In light of our findings from the\n            Blackboard case study, Blackboard and the course material are not\n            easily accessible to deaf students and hard of hearing. Thus, deaf\n            students find that learning is extremely stressful during the\n            pandemic.",
+    "type": "Thesis",
+    "publication": "",
+    "tags": [
+      "accessibility",
+      "deaf-hard-of-hearing",
+      "e-learning",
+      "machine-learning",
+      "user-review"
+    ]
+  },
+  "paper19": {
+    "title": "Automatic classification of accessibility user reviews in android\n            apps",
+    "authors": [
+      "Wajdi Aljedaani",
+      "Mohamed Wiem Mkaouer",
+      "Stephanie Ludi",
+      "Yasir Javed"
+    ],
+    "date": "March, 2022",
+    "year": 2022,
+    "links": {
+      "pdf": "/publication/papers/paper19.pdf",
+      "cite": "/publication/cites/paper19.bib",
+      "doi": "https://ieeexplore.ieee.org/abstract/document/9736367"
+    },
+    "abstract": "In recent years, mobile applications have gained popularity for\n            providing information, digital services, and content to users\n            including users with disabilities. However, recent studies have\n            shown that even popular mobile apps are facing issues related to\n            accessibility, which hinders their usability experience for people\n            with disabilities. For discovering these issues in the new app\n            releases, developers consider user reviews published on the official\n            app stores. However, it is a challenging and time-consuming task to\n            identify the type of accessibility-related reviews manually.\n            Therefore, in this study, we have used super-vised learning\n            techniques, namely, Extra Tree Classifier (ETC), Random Forest,\n            Support Vector Classification, Decision Tree, K-Nearest Neighbors\n            (KNN), and Logistic Regression for automated classification of 2,663\n            Android app reviews based on four types of accessibility guidelines,\n            i.e., Principles, Audio.",
+    "type": "Conference paper",
+    "publication": "2022 7th international conference on data science and machine\n                  learning applications (CDMA)",
+    "tags": [
+      "mobile-application",
+      "user-review",
+      "accessibility",
+      "android-applications",
+      "machine-learning"
+    ]
+  },
+  "paper20": {
+    "title": "Blood cancer prediction using leukemia microarray gene data and\n            hybrid logistic vector trees model",
+    "authors": [
+      "Vaibhav Rupapara",
+      "Furqan Rustam",
+      "Wajdi Aljedaani",
+      "Hina Fatima Shahzad",
+      "Ernesto Lee",
+      "Imran Ashraf"
+    ],
+    "date": "September, 2022",
+    "year": 2022,
+    "links": {
+      "pdf": "/publication/papers/paper20.pdf",
+      "cite": "/publication/cites/paper20.bib",
+      "doi": "https://www.nature.com/articles/s41598-022-04835-6"
+    },
+    "abstract": "Blood cancer has been a growing concern during the last decade and\n            requires early diagnosis to start proper treatment. The diagnosis\n            process is costly and time-consuming involving medical experts and\n            several tests. Thus, an automatic diagnosis system for its accurate\n            prediction is of significant importance. Diagnosis of blood cancer\n            using leukemia microarray gene data and machine learning approach\n            has become an important medical research today. Despite research\n            efforts, desired accuracy and efficiency necessitate further\n            enhancements. This study proposes an approach for blood cancer\n            disease prediction using the supervised machine learning approach.\n            For the current study, the leukemia microarray gene dataset\n            containing 22,283 genes, is used. ADASYN resampling and Chi-squared\n            (Chi2) features selection techniques are used to resolve imbalanced\n            and high-dimensional dataset problems.",
+    "type": "Journal article",
+    "publication": "Scientific reports",
+    "tags": ["machine-learning", "deep-learning", "medical-predictions"]
+  },
+  "paper21": {
+    "title": "Covid-19 vaccination-related sentiments analysis: a case study using\n            worldwide twitter dataset",
+    "authors": [
+      "Aijaz Ahmad Reshi",
+      "Furqan Rustam",
+      "Wajdi Aljedaani",
+      "Shabana Shafi",
+      "Abdulaziz Alhossan",
+      "Ziyad Alrabiah",
+      "Ajaz Ahmad",
+      "Hessa Alsuwailem",
+      "Thamer A Almangour",
+      "Musaad A Alshammari",
+      "Ernesto Lee",
+      "Imran Ashraf"
+    ],
+    "date": "September, 2022",
+    "year": 2022,
+    "links": {
+      "pdf": "/publication/papers/paper21.pdf",
+      "cite": "/publication/cites/paper21.bib",
+      "doi": "https://www.mdpi.com/2227-9032/10/3/411"
+    },
+    "abstract": "COVID-19 pandemic has caused a global health crisis, resulting in\n            endless efforts to reduce infections, fatalities, and therapies to\n            mitigate its after-effects. Currently, large and fast-paced\n            vaccination campaigns are in the process to reduce COVID-19\n            infection and fatality risks. Despite recommendations from\n            governments and medical experts, people show conceptions and\n            perceptions regarding vaccination risks and share their views on\n            social media platforms. Such opinions can be analyzed to determine\n            social trends and devise policies to increase vaccination\n            acceptance. In this regard, this study proposes a methodology for\n            analyzing the global perceptions and perspectives towards COVID-19\n            vaccination using a worldwide Twitter dataset. The study relies on\n            two techniques to analyze the sentiments natural language processing\n            and machine learning. To evaluate the performance of the different\n            lexicon-based methods, different machine and deep learning models\n            are studied. In addition, for sentiment classification, the proposed\n            ensemble model named long short-term memory-gated recurrent neural\n            network (LSTM-GRNN) is a combination of LSTM, gated recurrent unit,\n            and recurrent neural networks. Results suggest that the TextBlob\n            shows better results as compared to VADER and AFINN. The proposed\n            LSTM-GRNN shows superior performance with a 95% accuracy and\n            outperforms both machine and deep learning models. Performance\n            analysis with state-of-the-art models proves the significance of the\n            LSTM-GRNN for sentiment analysis.",
+    "type": "Journal article",
+    "publication": "Healthcare",
+    "tags": [
+      "machine-learning",
+      "deep-learning",
+      "covid-19",
+      "sentiment-analysis",
+      "social-media"
+    ]
+  },
+  "paper22": {
+    "title": "Detection of fake job postings by utilizing machine learning and\n            natural language processing approaches",
+    "authors": [
+      "Aashir Amaar",
+      "Wajdi Aljedaani",
+      "Furqan Rustam",
+      "Saleem Ullah",
+      "Vaibhav Rupapara",
+      "Stephanie Ludi"
+    ],
+    "date": "September, 2022",
+    "year": 2022,
+    "links": {
+      "pdf": "/publication/papers/paper22.pdf",
+      "cite": "/publication/cites/paper22.bib",
+      "doi": "https://link.springer.com/article/10.1007/s11063-021-10727-z"
+    },
+    "abstract": "The modern era is about everything that can be handled virtually in\n            human life, such as online banking, education, security, job, etc.\n            This increase in technology use also makes it easy for a scammer to\n            loot people and make money quickly. A popular scam nowadays is fake\n            job advertisements. People apply for these fake job vacancies, pay\n            application fees to scammers, send their data to the scammers, and\n            end up with a scam and waste their money. For this purpose, we\n            proposed a methodology that uses natural language processing and\n            supervised machine learning techniques to detect fraudulent job ads\n            from online recruitment portals. We used two feature extraction\n            techniques to extract the features from data Term Frequency-Inverse\n            Document Frequency (TF-IDF) and Bag-of-Words (BoW).",
+    "type": "Journal article",
+    "publication": "Neural Processing Letters",
+    "tags": [
+      "machine-learning",
+      "deep-learning",
+      "sentiment-analysis",
+      "social-media"
+    ]
+  },
+  "paper23": {
+    "title": "If online learning works for you, what about deaf students? Emerging\n            challenges of online learning for deaf and hearing-impaired students\n            during COVID-19: a literature review",
+    "authors": [
+      "Wajdi Aljedaani",
+      "Rrezarta Krasniqi",
+      "Sanaa Aljedaani",
+      "Mohamed Wiem Mkaouer",
+      "Stephanie Ludi",
+      "Khaled Al-Raddah"
+    ],
+    "date": "September, 2022",
+    "year": 2022,
+    "links": {
+      "pdf": "/publication/papers/paper23.pdf",
+      "cite": "/publication/cites/paper23.bib",
+      "doi": "https://link.springer.com/article/10.1007/s10209-022-00897-5",
+      "dataset": "https://zenodo.org/record/6678309"
+    },
+    "abstract": "With the coronavirus (COVID-19) outbreak, educational systems\n            worldwide were abruptly affected and hampered, causing nearly total\n            suspension of all in-person activities in schools, colleges, and\n            universities. Government officials prohibited the physical\n            gatherings in educational institutions to reduce the spread of the\n            virus. Therefore, educational institutions have aggressively shifted\n            to alternative learning methods and strategies such as online-based\n            platforms\u2014to seemingly avoid the disruption of education. However,\n            the switch from the face-to-face setting to an entirely online\n            setting introduced a series of challenges, especially for the deaf\n            or hard-of-hearing students. Various recent studies have revealed\n            the underlying infrastructure used by academic institutions may not\n            be suitable for students with hearing impairments.",
+    "type": "Journal article",
+    "publication": "Universal access in the information society",
+    "tags": [
+      "education",
+      "e-learning",
+      "accessibility",
+      "deaf-hard-of-hearing",
+      "covid-19",
+      "systematic-mapping"
+    ]
+  },
+  "paper24": {
+    "title": "On the identification of accessibility bug reports in open source\n            systems",
+    "authors": [
+      "Wajdi Aljedaani",
+      "Mohamed Wiem Mkaouer",
+      "Stephanie Ludi",
+      "Ali Ouni",
+      "Ilyes Jenhani"
+    ],
+    "date": "September, 2022",
+    "year": 2022,
+    "links": {
+      "pdf": "/publication/papers/paper24.pdf",
+      "cite": "/publication/cites/paper24.bib",
+      "doi": "https://dl.acm.org/doi/abs/10.1145/3493612.3520471",
+      "dataset": "https://smilevo.github.io/access/W4A22_index.html"
+    },
+    "abstract": "Today, mobile devices provide support to disabled people to make\n            their life easier due to their high accessibility and capability,\n            e.g., finding accessible locations, picture and voice-based\n            communication, customized user interfaces and vocabulary levels.\n            These accessibility frameworks are directly integrated, as\n            libraries, in various apps, providing them with accessibility\n            functions. Just like any other software, these frameworks regularly\n            encounter errors. These errors are reported by app developers in the\n            form of bug reports. These bug reports related to accessibility\n            faults need to be urgently fixed since their existence significantly\n            hinders the usability of apps. In this context, the manual\n            inspection of a large number of bug reports to identify\n            accessibility-related ones is time-consuming and error-prone.",
+    "type": "Conference paper",
+    "publication": "Proceedings of the 19th international web for all conference",
+    "tags": [
+      "bug-report",
+      "accessibility",
+      "machine-learning",
+      "software-repository-mining",
+      "mobile-application",
+      "web-application-analysis"
+    ]
+  },
+  "paper25": {
+    "title": "Comparative Analysis of Accessibility Testing Tools and Their\n            Limitations in RIAs",
+    "authors": ["Obianuju Okafor", "Wajdi Aljedaani", "Stephanie Ludi"],
+    "date": "October, 2022",
+    "year": 2022,
+    "links": {
+      "pdf": "/publication/papers/paper25.pdf",
+      "cite": "/publication/cites/paper25.bib",
+      "doi": "https://link.springer.com/chapter/10.1007/978-3-031-17902-0_34"
+    },
+    "abstract": "Accessibility is a required quality for websites today, and several\n            tools exist to test for this quality. These tools are highly\n            advantageous, but sadly they also have some limitations. A\n            particular set of challenges they face is in the evaluation of Rich\n            Internet Applications (RIAs). In this paper, we carry out an\n            experiment to compare and analyze different accessibility testing\n            tools as they evaluate 10 educational websites. We judged these\n            tools based on their error detection, guideline coverage, speed,\n            similarity to one another, and their relative performance when\n            evaluating RIAs. The experiment findings revealed the strength and\n            limitations of each tool. The results of this experiment also\n            exposed that there are many guidelines and success criteria that\n            accessibility testing tools are not able to cover, and that some\n            evaluation tools are similar to each other in terms of the results\n            they produce.",
+    "type": "Conference paper",
+    "publication": "International Conference on Human-Computer Interaction",
+    "tags": ["accessibility", "detection-tools"]
+  },
+  "paper26": {
+    "title": "Role of Artificial Intelligence for Analysis of COVID-19\n            Vaccination-Related Tweets: Opportunities, Challenges, and Future\n            Trends",
+    "authors": ["Obianuju Okafor", "Wajdi Aljedaani", "Stephanie Ludi"],
+    "date": "October, 2022",
+    "year": 2022,
+    "links": {
+      "pdf": "/publication/papers/paper26.pdf",
+      "cite": "/publication/cites/paper26.bib",
+      "doi": "https://www.mdpi.com/2227-7390/10/17/3199"
+    },
+    "abstract": "Pandemics and infectious diseases are overcome by vaccination, which\n            serves as a preventative measure. Nevertheless, vaccines also raise\n            public concerns; public apprehension and doubts challenge the\n            acceptance of new vaccines. COVID-19 vaccines received a similarly\n            hostile reaction from the public. In addition, misinformation from\n            social media, contradictory comments from medical experts, and\n            reports of worse reactions led to negative COVID-19 vaccine\n            perceptions. Many researchers analyzed people\u2019s varying sentiments\n            regarding the COVID-19 vaccine using artificial intelligence (AI)\n            approaches. This study is the first attempt to review the role of AI\n            approaches in COVID-19 vaccination-related sentiment analysis. For\n            this purpose, insights from publications are gathered that analyze\n            the (a) approaches used to develop sentiment analysis tools, (b)\n            major sources of data, (c) available data sources, and (d) the\n            public perception of COVID-19 vaccine. Analysis suggests that public\n            perception-related COVID-19 tweets are predominantly analyzed using\n            TextBlob. Moreover, to a large extent, researchers have employed the\n            Latent Dirichlet Allocation model for topic modeling of Twitter\n            data. Another pertinent discovery made in our study is the variation\n            in people\u2019s sentiments regarding the COVID-19 vaccine across\n            different regions. We anticipate that our systematic review will\n            serve as an all-in-one source for the research community in\n            determining the right technique and data source for their\n            requirements. Our findings also provide insight into the research\n            community to assist them in their future work in the current domain.",
+    "type": "Journal article",
+    "publication": "Mathematics",
+    "tags": [
+      "machine-learning",
+      "deep-learning",
+      "systematic-mapping",
+      "covid-19",
+      "sentiment-analysis",
+      "social-media"
+    ]
+  },
+  "paper27": {
+    "title": "A novel framework for remote management of social media big data\n            analytics",
+    "authors": ["Ahmad M Al-Shomar", "Muhammad Al-Qurish", "Wajdi Aljedaani"],
+    "date": "December, 2022",
+    "year": 2022,
+    "links": {
+      "pdf": "/publication/papers/paper27.pdf",
+      "cite": "/publication/cites/paper27.bib",
+      "doi": "https://link.springer.com/article/10.1007/s13278-022-00996-4"
+    },
+    "abstract": "With the rapid expansion of social media users and the\n            ever-increasing data exchange between them, the era of big data has\n            arrived. Integration of big data generates enormous benefits, making\n            it a hotspot for research. However, big data demonstrates the\n            heterogeneity brought on by multiple data sources. Big data\n            integration is constrained by multi-source heterogeneous data.\n            Moreover, the rise in the volume of social media data is affecting\n            the efficiency of data integration. This study is concerned with\n            developing a novel framework for data integration system that can\n            manage the heterogeneity of massive social media data. The framework\n            is comprised of four layers data source layer, application layer,\n            resource layer, and visualization layer. The framework establishes\n            correlations between data stored in distributed data sources.",
+    "type": "Journal article",
+    "publication": "Social Network Analysis and Mining",
+    "tags": ["social-media", "big-data"]
+  },
+  "paper28": {
+    "title": "Automatically detecting and understanding the perception of COVID-19\n            vaccination: a middle east case study",
+    "authors": ["Ahmad M Al-Shomar", "Muhammad Al-Qurish", "Wajdi Aljedaani"],
+    "date": "December, 2022",
+    "year": 2022,
+    "links": {
+      "pdf": "/publication/papers/paper28.pdf",
+      "cite": "/publication/cites/paper28.bib",
+      "doi": "https://link.springer.com/article/10.1007/s13278-022-00946-0",
+      "dataset": "https://wajdialjedaani.github.io/ArTweetCovid19/"
+    },
+    "abstract": "The development of COVID-19 vaccines has been a great relief in many\n            countries that have been affected by the pandemic. As a result, many\n            governments have made significant efforts to purchase and administer\n            vaccines to their populations. However, accommodating such vaccines\n            is typically confronted with people\u2019s reluctance and fear. Like any\n            other important event, COVID-19 vaccines have attracted people\u2019s\n            discussions on social media and impacted their opinions about\n            vaccination.",
+    "type": "Journal article",
+    "publication": "Social Network Analysis and Mining",
+    "tags": [
+      "machine-learning",
+      "deep-learning",
+      "covid-19",
+      "sentiment-analysis",
+      "arabic-detection",
+      "social-media"
+    ]
+  },
+  "paper29": {
+    "title": "Electroencephalogram Signals for Detecting Confused Students in\n            Online Education Platforms with Probability-Based Features",
+    "authors": ["Obianuju Okafor", "Wajdi Aljedaani", "Stephanie Ludi"],
+    "date": "December, 2022",
+    "year": 2022,
+    "links": {
+      "pdf": "/publication/papers/paper29.pdf",
+      "cite": "/publication/cites/paper29.bib",
+      "doi": "https://www.mdpi.com/2079-9292/11/18/2855"
+    },
+    "abstract": "Online education has emerged as an important educational medium\n            during the COVID-19 pandemic. Despite the advantages of online\n            education, it lacks face-to-face settings, which makes it very\n            difficult to analyze the students\u2019 level of interaction,\n            understanding, and confusion. This study makes use of\n            electroencephalogram (EEG) data for student confusion detection for\n            the massive open online course (MOOC) platform. Existing approaches\n            for confusion detection predominantly focus on model optimization\n            and feature engineering is not very well studied. This study\n            proposes a novel engineering approach that uses probability-based\n            features (PBF) for increasing the efficacy of machine learning\n            models. The PBF approach utilizes the probabilistic output from the\n            random forest (RF) and gradient-boosting machine (GBM) as a feature\n            vector to train machine learning models. Extensive experiments are\n            performed by using the original features and PBF approach through\n            several machine learning models with EEG data. Experimental results\n            suggest that by using the PBF approach on EEG data, a 100% accuracy\n            can be obtained for detecting confused students. K-fold\n            cross-validation and performance comparison with existing approaches\n            further corroborates the results.",
+    "type": "Journal article",
+    "publication": "Electronics",
+    "tags": ["education", "e-learning", "machine-learning", "deep-learning"]
+  },
+  "paper30": {
+    "title": "Sentiment analysis on Twitter data integrating TextBlob and deep\n            learning models: The case of US airline industry",
+    "authors": ["Ahmad M Al-Shomar", "Muhammad Al-Qurish", "Wajdi Aljedaani"],
+    "date": "December, 2022",
+    "year": 2022,
+    "links": {
+      "pdf": "/publication/papers/paper30.pdf",
+      "cite": "/publication/cites/paper30.bib",
+      "doi": "https://www.sciencedirect.com/science/article/abs/pii/S0950705122009017"
+    },
+    "abstract": "Twitter being among the popular social media platforms, provide\n            peoples\u2019 opinions regarding specific ideas, products, services, etc.\n            The large amounts of shared data as tweets can help extract users\u2019\n            sentiment and provide valuable feedback to improve the quality of\n            products and services alike. Similar to other service industries,\n            the airline industry utilizes such feedback for determining\n            customers\u2019 satisfaction levels and improving the quality of\n            experience where needed. This, of course, requires accurate\n            sentiments from the user tweets. Existing sentiment analysis models\n            suffer from low accuracy on account of the contradictions found in\n            the tweet text and the assigned label. From this perspective, this\n            study proposes a hybrid sentiment analysis approach where the\n            lexicon-based methods are used with deep learning models to improve\n            sentiment accuracy.",
+    "type": "Journal article",
+    "publication": "Knowledge-Based Systems",
+    "tags": [
+      "machine-learning",
+      "deep-learning",
+      "sentiment-analysis",
+      "social-media"
+    ]
+  },
+  "paper31": {
+    "title": "Spam SMS filtering based on text features and supervised machine\n            learning techniques",
+    "authors": ["Ahmad M Al-Shomar", "Muhammad Al-Qurish", "Wajdi Aljedaani"],
+    "date": "December, 2022",
+    "year": 2022,
+    "links": {
+      "pdf": "/publication/papers/paper31.pdf",
+      "cite": "/publication/cites/paper31.bib",
+      "doi": "https://link.springer.com/article/10.1007/s11042-022-12991-0"
+    },
+    "abstract": "The advancement in technology made a significant mark with time,\n            which affects every field of life like medicine, music, office,\n            traveling, and communication. Telephone lines are used as a\n            communication medium in ancient times. Currently, wireless\n            technology overrides telephone wire technology with much broader\n            features. The advertisement agencies and spammers mostly use SMS as\n            a medium of communication to convey their business brochures to the\n            typical person. Due to this reason, more than 60% of spam SMS are\n            received daily. These spam messages cause users\u2019 anger and sometimes\n            scam with innocent users, but it creates large profits for the\n            spammer and advertisement companies. This study proposed an approach\n            for the classification of spam and ham SMS using supervised machine\n            learning techniques.",
+    "type": "Journal article",
+    "publication": "Multimedia Tools and Applications",
+    "tags": [
+      "machine-learning",
+      "deep-learning",
+      "sentiment-analysis",
+      "social-media"
+    ]
+  },
+  "paper32": {
+    "title": "Dynamic Software Containers Workload Balancing Via Many-Objective\n            Search",
+    "authors": [
+      "Anwar Ghammam",
+      "Thiago Ferreira",
+      "Wajdi Aljedaani",
+      "Marouane Kessentini",
+      "Ali Husain"
+    ],
+    "date": "February, 2023",
+    "year": 2023,
+    "links": {
+      "pdf": "/publication/papers/paper32.pdf",
+      "cite": "/publication/cites/paper32.bib",
+      "doi": "https://ieeexplore.ieee.org/abstract/document/10048583",
+      "dataset": "https://anwarghammam.github.io/ContainersSchedulingWebSite/"
+    },
+    "abstract": "Software containers are becoming the new state of the art in the\n            industry as they are extensively used to deploy systems. Indeed, the\n            use of containers enables better modularity, reusability, and\n            portability compared to other technologies. As the complexity of\n            software systems is dramatically increasing, it is critical to\n            enable optimal usage of the needed resources to execute them such as\n            memory and CPU. Thus, different scheduling strategies are proposed\n            to select the most suitable nodes to execute a set of containers.\n            For instance, the default strategy in the Docker Swarm kit\n            scheduling framework is based on an equal distribution of the\n            containers between nodes independent of their sizes and consumed\n            resources. However, balancing the containers\u2019 workload is a complex\n            problem due to the conflicting objectives of minimizing the number\n            of selected nodes, minimizing the number of containers per node, the\n            number of changes compared to the original schedule, and the\n            coupling between containers allocated to different nodes. To deal\n            with those conflicting scheduling objectives, we propose a scheduler\n            based on a many-objective optimization approach for scheduling the\n            execution of containers between multiple nodes. The proposed\n            approach aims at finding the best allocation for containers in nodes\n            that leads to efficient utilization of resources. To evaluate our\n            approach, we compared the performance of multiple many and\n            multi-objective techniques based on NSGA-II, NSGA-III, and IBEA\n            algorithms using 48 Docker-related systems and the results show that\n            NSGA-III outperforms the other algorithms in quality attributes as\n            well as in CPU, Memory and Network usage.",
+    "type": "Journal article",
+    "publication": "IEEE Transactions on Services Computing",
+    "tags": [
+      "many-objective-optimization",
+      "docker",
+      "software-quality",
+      "software-maintenance-and-evolution",
+      "NLPforAccessibility"
+    ]
+  },
+  "paper33": {
+    "title": "Teachers Perspectives on Transition to Online Teaching Deaf and\n            Hard-of-Hearing Students during the COVID-19 Pandemic: A Case Study",
+    "authors": [
+      "Wajdi Aljedaani",
+      "Mona Aljedaani",
+      "Mohamed Wiem Mkaouer",
+      "Stephanie Ludi"
+    ],
+    "date": "February, 2023",
+    "year": 2023,
+    "links": {
+      "pdf": "/publication/papers/paper33.pdf",
+      "cite": "/publication/cites/paper33.bib",
+      "doi": "https://dl.acm.org/doi/abs/10.1145/3578527.3578531",
+      "video": "https://youtu.be/Pbpb6AFp-TI"
+    },
+    "abstract": "Education has faced various challenges due to the COVID- 19\n            pandemic. These challenges were even more dramatic for deaf and\n            hard-of-hearing students as they transitioned to the online setting.\n            This paper aims to explore the teachers\u2019 perspectives on\n            transitioning to educating computer science deaf students at a\n            technical college in the Kingdom of Saudi Arabia (KSA). Therefore,\n            the paper presents the results of 10 surveys and 5 interviews with\n            faculty to identify the main obstacles that teachers have faced\n            during the transition. This study outcomes reveal several challenges\n            related to poor accessibility of learning tools, issues with the\n            online availability of materials, no updates on the teaching\n            pedagogy to accommodate the new settings and communication problems\n            between teachers and students. Our study outlines important\n            takeaways to provide deaf and hard-of-hearing students with a better\n            learning experience.",
+    "type": "Conference paper",
+    "publication": "Proceedings of the 16th Innovations in Software Engineering\n                  Conference",
+    "tags": [
+      "education",
+      "e-learning",
+      "accessibility",
+      "deaf-hard-of-hearing",
+      "covid-19"
+    ]
+  },
+  "paper34": {
+    "title": "Do the Test Smells Assertion Roulette and Eager Test Impact\n            Students' Troubleshooting and Debugging Capabilities?",
+    "authors": [
+      "Wajdi Aljedaani",
+      "Mohamed Wiem Mkaouer",
+      "Anthony Peruma",
+      "Stephanie Ludi"
+    ],
+    "date": "March, 2023",
+    "year": 2023,
+    "links": {
+      "pdf": "/publication/papers/paper34.pdf",
+      "cite": "/publication/cites/paper34.bib",
+      "doi": "https://arxiv.org/abs/2303.04234",
+      "dataset": "https://wajdialjedaani.github.io/testsmellstd/"
+    },
+    "abstract": "To ensure the quality of a software system, developers perform an\n            activity known as unit testing, where they write code (known as test\n            cases) that verifies the individual software units that make up the\n            system. Like production code, test cases are subject to bad\n            programming practices, known as test smells, that hurt maintenance\n            activities. An essential part of most maintenance activities is\n            program comprehension which involves developers reading the code to\n            understand its behavior to fix issues or update features. In this\n            study, we conduct a controlled experiment with 96 undergraduate\n            computer science students to investigate the impact of two common\n            types of test smells, namely Assertion Roulette and Eager Test, on a\n            student\u2019s ability to debug and troubleshoot test case\n            failures. Our findings show that students take longer to correct\n            errors in production code when smells are present in their\n            associated test cases, especially Assertion Roulette. We envision\n            our findings supporting academia in better equipping students with\n            the knowledge and resources in writing and maintaining high-quality\n            test cases. Our experimental materials are available online\n            https://wajdialjedaani.github.io/testsmellstd/",
+    "type": "Conference paper",
+    "publication": "arXiv preprint arXiv:2303.04234",
+    "tags": [
+      "test-smells",
+      "unit-test",
+      "software-quality",
+      "software-maintenance-and-evolution"
+    ]
+  },
+  "paper35": {
+    "title": "Analyzing Accessibility Reviews Associated with Visual Disabilities\n            or Eye Conditions",
+    "authors": [
+      "Alberto Dumont",
+      "Alves Oliveira",
+      "Paulo S\u00e9rgio Henrique Dos Santos",
+      "Wilson Est\u00e9cio Marc\u00edlio J\u00fanior",
+      "Wajdi Aljedaani",
+      "Danilo Medeiros Eler",
+      "Marcelo Medeiros Eler"
+    ],
+    "date": "April, 2023",
+    "year": 2023,
+    "links": {
+      "pdf": "/publication/papers/paper35.pdf",
+      "cite": "/publication/cites/paper35.bib",
+      "doi": "https://dl.acm.org/doi/abs/10.1145/3544548.3581315",
+      "dataset": "https://wajdialjedaani.com/A11yChi23/",
+      "video": "https://youtu.be/MItsBSsulu4"
+    },
+    "abstract": "Accessibility reviews collected from app stores may contain valuable\n            information for improving apps accessibility. Recent studies have\n            presented insightful information on accessibility reviews, but they\n            were based on small datasets and focused on general accessibility\n            concerns. In this paper, we analyzed accessibility reviews that\n            report issues affecting users with visual disabilities or\n            conditions. Such reviews were identified based on selection criteria\n            applied over 179,519,598 reviews of popular apps on the Google Play\n            Store. Our results show that only 0,003% of user reviews mention\n            visual disabilities or conditions; accessibility reviews are\n            associated with 36 visual disabilities or eye conditions; many users\n            do not give precise feedback and refer to their disability using\n            generic terms; accessibility reviews can be grouped into general\n            topics of concerns related to different types of disabilities;",
+    "type": "Conference paper",
+    "publication": "Proceedings of the 2023 CHI Conference on Human Factors in\n                  Computing Systems",
+    "tags": [
+      "mobile-application",
+      "accessibility",
+      "user-review",
+      "blind-visual-impairment",
+      "android-applications",
+      "sentiment-analysis",
+      "nlpforaccessibility"
+    ]
+  },
+  "paper36": {
+    "title": "The state of accessibility in blackboard: Survey and user reviews\n            case study",
+    "authors": [
+      "Wajdi Aljedaani",
+      "Mohammed Alkahtani",
+      "Stephanie Ludi",
+      "Mohamed Wiem Mkaouer",
+      "Marcelo M Eler",
+      "Marouane Kessentini",
+      "Ali Ouni"
+    ],
+    "date": "September, 2023",
+    "year": 2023,
+    "links": {
+      "pdf": "/publication/papers/paper36.pdf",
+      "cite": "/publication/cites/paper36.bib",
+      "doi": "https://dl.acm.org/doi/abs/10.1145/3587281.3587291"
+    },
+    "abstract": "Nowadays, mobile applications (or apps) have become vital in our\n            daily life, particularly within education. Many institutions\n            increasingly rely on mobile apps to provide access to all their\n            students. However, many education mobile apps remain inaccessible to\n            users with disabilities who need to utilize accessibility features\n            like talkback or screen reader features. Accessibility features have\n            to be considered in mobile apps to foster equity and inclusion in\n            the educational environment allowing to use of such apps without\n            limitations. Gaps in the accessibility to educational systems\n            persist.",
+    "type": "Conference paper",
+    "publication": "Proceedings of the 20th International Web for All Conference",
+    "tags": [
+      "mobile-application",
+      "user-review",
+      "accessibility",
+      "deaf-hard-of-hearing",
+      "android-applications",
+      "nlpforaccessibility"
+    ]
+  },
+  "paper37": {
+    "title": "Evolution may come with a price: analyzing user reviews to\n            understand the impact of updates on mobile apps accessibility",
+    "authors": [
+      "Paulo S\u00e9rgio Henrique Dos Santos",
+      "Alberto Dumont Alves Oliveira",
+      "Thais Bonjorni Nobre De Jesus",
+      "Wajdi Aljedaani",
+      "Marcelo Medeiros Eler"
+    ],
+    "date": "October, 2023",
+    "year": 2023,
+    "links": {
+      "pdf": "/publication/papers/paper37.pdf",
+      "cite": "/publication/cites/paper37.bib",
+      "doi": "https://dl.acm.org/doi/abs/10.1145/3638067.3638081"
+    },
+    "abstract": "Mobile applications are constantly updated to adapt to evolving user\n            and environment requirements. As changes are successively\n            implemented to promote user satisfaction, the complexity of mobile\n            apps increases, and overlooked quality aspects (e.g. privacy,\n            security, power consumption) may decline if counter-measures are not\n            adopted. In this paper, we analyzed accessibility reviews of mobile\n            apps to show evidence that updates may introduce barriers that make\n            the app less accessible than its previous version according to\n            users\u2019 perceptions. Our results show that accessibility barriers\n            reported by users mostly include incompatibility with screen\n            readers, the removal of accessibility features (e.g. color scheme or\n            font customization), small font sizes and widgets, and\n            incompatibility with the device\u2019s accessibility configuration. The\n            accessibility barriers impact the users considering different\n            levels: i) perception: an inability or difficulty to see, read or\n            distinguish interface elements due to their small size or color; ii)\n            understanding: the inability or difficulty to navigate, access and\n            interpret information; iii) operation: the inability of difficulty\n            to perform tasks such as adding items to the cart, reading or\n            sending messages, and booking a ride; iv) and physical reactions,\n            such as eyestrain, vertigo, and headache. The sentiments expressed\n            by users are generally negative, including frustration,\n            disappointment, and sometimes a sense of discrimination against\n            people with disabilities. The results of our study raise an alert to\n            organizations and developers that they should implement measures to\n            avoid introducing accessibility barriers while they add new features\n            to their mobile apps.",
+    "type": "Conference paper",
+    "publication": "Proceedings of the XXII Brazilian Symposium on Human Factors in Computing Systems,2023",
+    "tags": [
+      "accessibility",
+      "user-review",
+      "mobile-application",
+      "android-applications"
+    ]
+  },
+  "paper38": {
+    "title": "Arabic ChatGPT Tweets Classification using RoBERTa and BERT Ensemble\n            Model",
+    "authors": [
+      "Muhammad Mujahid",
+      "Khadija Kanwal",
+      "Furqan Rustam",
+      "Wajdi Aljedaani",
+      "Imran Ashraf"
+    ],
+    "date": "August, 2023",
+    "year": 2023,
+    "links": {
+      "pdf": "/publication/papers/paper38.pdf",
+      "cite": "/publication/cites/paper38.bib",
+      "doi": "https://dl.acm.org/doi/abs/10.1145/3605889"
+    },
+    "abstract": "ChatGPT OpenAI, a large-language chatbot model, has gained a lot of\n            attention due to its popularity and impressive performance in many\n            natural language processing tasks. ChatGPT produces superior answers\n            to a wide range of real-world human questions and generates\n            human-like text. The new OpenAI ChatGPT technology may have some\n            strengths and weaknesses at this early stage. Users have reported\n            early opinions about the ChatGPT features, and their feedback is\n            essential to recognize and fix its shortcomings and issues. This\n            study uses the ChatGPT tweets Arabic dataset to automatically find\n            user opinions and sentiments about ChatGPT technology. The dataset\n            is preprocessed and labeled using the TextBlob Arabic Python library\n            into positive, negative, and neutral tweets. Despite extensive works\n            for the English language, languages like Arabic are less studied\n            regarding tweet analysis. Existing literature about Arabic tweet\n            sentiment analysis has mainly focused on machine learning and deep\n            learning models. We collected a total of 27,780 unstructured tweets\n            from Twitter using the Tweepy SNscrape Python library using various\n            hash-tags such as # Chat-GPT, #OpenAI, #Chatbot, Chat-GPT3, and so\n            on. To enhance the model\u2019s performance and reduce computational\n            complexity, unstructured tweets are converted into structured and\n            normalized forms. Tweets contain missing values, URL and HTML tags,\n            stop words, punctuation, diacritics, elongations, and numeric values\n            that have no impact on the model performance; hence, these increase\n            the computational cost. So, these steps are removed with the help of\n            Python preprocessing libraries to enhance text quality and\n            consistency. This study adopts Transformer-based models such as\n            RoBERTa, XLNet, and DistilBERT that automatically classify the\n            tweets. Additionally, a hybrid transformer-based model is proposed\n            to obtain better results. The proposed hybrid model is developed by\n            combining the hidden outputs of the RoBERTA and BERT models using a\n            concatenation layer, then adding dense layers with \u201cRelu\u201d activation\n            employed as a hidden layer to create non-linearity and a \u201csoftmax\u201d\n            activation function for multiclass classification. They differ from\n            existing state-of-the-art models due to the enhanced capabilities of\n            both models in text classification. Hybrid models combine the\n            different models to make accurate predictions and reduce bias and\n            enhanced the overall results, while state-of-the-art models are\n            incapable of making accurate predictions. Experiments show that the\n            proposed hybrid model achieves 96.02% accuracy, 100% precision on\n            negative tweets, and 99% recall for neutral tweets. The performance\n            of the proposed model is far better than existing state-of-the-art\n            models.",
+    "type": "Journal article",
+    "publication": "ACM Transactions on Asian and Low-Resource Language Information Processing, 2023",
+    "tags": [
+      "generative-ai",
+      "social-media",
+      "machine-learning",
+      "deep-learning"
+    ]
+  },
+  "paper39": {
+    "title": "Securing multi-environment networks using versatile synthetic data\n            augmentation technique and machine learning algorithms",
+    "authors": [
+      "Furqan Rustam",
+      "Anca Delia Jurcut",
+      "Wajdi Aljedaani",
+      "Imran Ashraf"
+    ],
+    "date": "August, 2023",
+    "year": 2023,
+    "links": {
+      "pdf": "/publication/papers/paper39.pdf",
+      "cite": "/publication/cites/paper39.bib",
+      "doi": "https://ieeexplore.ieee.org/abstract/document/10320203"
+    },
+    "abstract": "The emergence of new network architectures, protocols, and tools has\n            made it easier for cybercriminals to launch attacks using AI-based\n            tools, presenting challenges in network security. To protect such\n            systems, a versatile malicious traffic detection system is required\n            that can identify attacks regardless of the type of traffic coming\n            toward the network. In this paper, a system is proposed that can\n            singly analyze multi-environment traffic (IoT and traditional\n            IP-based) to detect malicious activity. The existing techniques for\n            managing Multi-Environment traffic are inefficient due to the\n            absence of AI utilization. To overcome these issues, the proposed\n            approach generates a novel multienvironment traffic dataset by\n            merging existing network datasets containing both traditional\n            IP-based traffic and IoT network traffic. Synthetic Data\n            Augmentation TEchnique (S-DATE) is also proposed to overcome the\n            problem of imbalanced data distribution in the new multi-environment\n            dataset. The results show that the utilization of S-DATE results in\n            faster machine learning model convergence and an improvement in the\n            detection rate of normal and abnormal traffic. The proposed approach\n            achieves an impressive overall detection rate of 0.991 and is\n            statistically significant compared to other state-of-the-art\n            approaches.",
+    "type": "Conference paper",
+    "publication": "2023 20th Annual International Conference on Privacy, Security and Trust (PST)",
+    "tags": ["machine-learning", "deep-learning"]
+  },
+  "paper40": {
+    "title": "Role of Artificial Intelligence in Online Education: A Systematic Mapping Study",
+    "authors": [
+      "Rahman Shafique",
+      "Wajdi Aljedaani",
+      "Ernesto Lee",
+      "Arif Mehmood",
+      "Gyu Sang Choi"
+    ],
+    "date": "March, 2023",
+    "year": 2023,
+    "links": {
+      "pdf": "/publication/papers/paper40.pdf",
+      "cite": "/publication/cites/paper40.bib",
+      "doi": "https://ieeexplore.ieee.org/abstract/document/10129263"
+    },
+    "abstract": "Artificial intelligence (AI) comprises various sub-fields, including machine learning\n          (ML) and deep learning (DL) perform a key role in the transformation of many industries, including education.\n          It changes traditional learning methods by using its Innovative techniques and applications. Using its\n          applications, the teachers may keep track of each student\u2019s development, paying close attention to the areas\n          in which they struggle. Many researchers are working with ML and DL to exploit its discoveries and insights.\n          In education, traditional education methods (TEM) are the same for each student, which means each student is\n          taught in the same way as ML and DL, making this process flexible and creative for solving complex problems\n          and enhancing productivity. Nowadays, each institution adopts E-learning methods as the primary way of\n          learning, especially during the pandemic. Despite this evolution of creativity, delivering quality education,\n          making strategies for analyzing performance and future goals, and career counseling for students still pose\n          challenges. The current study aims to offer a complete overview of the significance of ML approaches in online\n          education. To accomplish this purpose, the study synthesizes information from multiple scientific papers that\n          investigate (a) the methodology used to construct learning analysis tools, (b) the key data resources used,\n          and (c) the scope\u00c2 of data sources now available. This systematic literature review (SLR) examines the\n          research conducted between 1961 and 2022, focusing on various machine learning (ML) and deep learning (DL)\n          techniques. Its aim is to provide insights into the applications of these techniques and offer optimal\n          solutions to the research questions at hand. We are convinced that our complete assessment will be a\n          dependable resource for the research group in ascertainment the best approach and information source for their\n          unique needs. Moreover, our findings provide valuable insights on the subject matter that could aid the\n          research community in their future endeavors in the related field.",
+    "type": "Journal article",
+    "publication": "IEEE Access, 2023",
+    "tags": [
+      "education",
+      "systematic-mapping",
+      "e-learning",
+      "machine-learning",
+      "deep-learning"
+    ]
+  },
+  "paper41": {
+    "title": "Identifying fake job posting using selective features and resampling\n            techniques",
+    "authors": [
+      "Hina Afzal",
+      "Furqan Rustam",
+      "Wajdi Aljedaani",
+      "Muhammad Abubakar Siddique",
+      "Saleem Ullah",
+      "Imran Ashraf"
+    ],
+    "date": "February, 2024",
+    "year": 2024,
+    "links": {
+      "pdf": "/publication/papers/paper41.pdf",
+      "cite": "/publication/cites/paper41.bib",
+      "doi": "https://link.springer.com/article/10.1007/s11042-023-15173-8"
+    },
+    "abstract": "The fake job posting has emerged as an alarming cyber-crime during\n            the last few years which affects both job seekers and companies\n            alike. Fraudulent companies and individuals lure job-seekers using\n            multifarious methods on digital media platforms. Although several\n            machine learning-based approaches exist for the automatic detection\n            of fake job posts, they lack high accuracy and show skewed\n            performance on imbalanced data. In addition, the influence of\n            feature selection is not very well studied. This study overcomes\n            these limitations using selective features through Chi-square and\n            principal component analysis (PCA). The influence of dataset\n            imbalance is also investigated through the synthetic minority\n            oversampling technique (SMOTE). The performance of the proposed\n            model is compared with individual machine learning models, as well\n            as, existing state-of-the-art models. Results indicate that using\n            SMOTE with Chi-square-based selective features yields the best\n            results with a 0.99 accuracy using the proposed model. K-fold\n            cross-validation further corroborates these results.",
+    "type": "Journal article",
+    "publication": "Multimedia Tools and Applications, 2024",
+    "tags": ["machine-learning", "deep-learning"]
+  },
+  "paper42": {
+    "title": "Detecting thyroid disease using optimized machine learning model\n            based on differential evolution",
+    "authors": [
+      "Punit Gupta",
+      "Furqan Rustam",
+      "Khadija Kanwal",
+      "Wajdi Aljedaani",
+      "Sultan Alfarhood",
+      "Mejdl Safran",
+      "Imran Ashraf"
+    ],
+    "date": "January, 2024",
+    "year": 2024,
+    "links": {
+      "pdf": "/publication/papers/paper42.pdf",
+      "cite": "/publication/cites/paper42.bib",
+      "doi": "https://link.springer.com/article/10.1007/s44196-023-00388-2"
+    },
+    "abstract": "Thyroid disease has been on the rise during the past few years.\n            Owing to its importance in metabolism, early detection of thyroid\n            disease is a task of critical importance. Despite several existing\n            works on thyroid disease detection, the problem of class imbalance\n            is not investigated very well. In addition, existing studies\n            predominantly focus on the binary-class problem. This study aims to\n            solve these issues by the proposed approach where ten types of\n            thyroid diseases are considered. The proposed approach uses a\n            differential evolution (DE)-based optimization algorithm to\n            fine-tune the parameters of machine learning models. Moreover,\n            conditional generative adversarial networks are used for data\n            augmentation. Several sets of experiments are carried out to analyze\n            the performance of the proposed approach with and without model\n            optimization. Results suggest that a 0.998 accuracy score can be\n            obtained using AdaBoost with DE optimization which is better than\n            existing state-of-the-art models.",
+    "type": "Journal article",
+    "publication": "International Journal of Computational Intelligence Systems,2024",
+    "tags": ["machine-learning", "deep-learning", "medical-predictions"]
+  },
+  "paper43": {
+    "title": "Bee detection in bee hives using selective features from acoustic\n            data",
+    "authors": [
+      "Furqan Rustam",
+      "Muhammad Zahid Sharif",
+      "Wajdi Aljedaani",
+      "Ernesto Lee",
+      "Imran Ashraf"
+    ],
+    "date": "March, 2024",
+    "year": 2024,
+    "links": {
+      "pdf": "/publication/papers/paper43.pdf",
+      "cite": "/publication/cites/paper43.bib",
+      "doi": "https://link.springer.com/article/10.1007/s11042-023-15192-5"
+    },
+    "abstract": "Honeybees, a key pollinator of the world\u2019s most cultivated crops,\n            are experiencing colony collapses due to a variety of factors. The\n            existence of honeybees and queens is critical to the sociality of a\n            colony, and the presence of bees in agricultural settings is vital\n            to the ecological balance. Moreover, beehives without a queen may\n            lead to the decline of an entire colony therefore finding them\n            through effective and an accurate approach is a critical task. In\n            this scenario, we analyzed acoustic/sound data of various classes\n            (i.e. Bee, NoBee, and NoQueen) from beehive colonies. This study\n            examines five distinct features including spectral centroid,\n            zero-crossing rate, Mel-frequency cepstral coefficients (MFCC),\n            chromagram, and constant Q-transform characteristics for their\n            suitability in detecting bees using the acoustic data. In addition,\n            selective features using principal component analysis (PCA),\n            Chi-square analysis (Chi2), and singular value decomposition (SVD)\n            are used. Moreover, the study proposes hybrid features where\n            selective PCA, Chi2, and SVD characteristics are integrated to\n            create a suitable feature set. Experimental results exhibit the\n            suitability of the hybrid feature set which outperformed individual\n            features for \u201cBee\u201d, \u201cNoBee\u201d and \u201cNoQueen\u201d classes prediction.\n            Cross-validation and T-test results also confirm the superior\n            performance of hybrid MFCC features. The results indicate that RF\n            and KNN show better performance than other machine learning models\n            with maximum accuracy scores of 0.82 and 0.83, respectively.",
+    "type": "Journal article",
+    "publication": "Multimedia Tools and Applications, 2024",
+    "tags": ["machine-learning", "deep-learning"]
+  },
+  "paper44": {
+    "title": "From Boring to Boarding: Transforming Refactoring Education with Game-Based Learning",
+    "authors": [
+      "Wajdi Aljedaani",
+      "Anwar Ghammam",
+      "Mohamed Wiem Mkaouer",
+      "Marouane Kessentini"
+    ],
+    "date": "August, 2024",
+    "year": 2024,
+    "links": {
+      "pdf": "/publication/papers/paper44.pdf",
+      "cite": "/publication/cites/paper44.bib",
+      "doi": "https://doi.org/10.1145/3643658.3643924"
+    },
+    "abstract": "Software Refactoring, a critical skill in software development, involves reorganizing code without altering its functionality. Despite its importance, many developers find refactoring complex and risky, often hesitating to adopt tools designed to assist in this process. To bridge this gap in this paper, we investigate the impact of gamification on the refactoring process and the usability of existing refactoring tools. Our research introduces RefGame, an innovative game-based tool that aims to enhance the learning experience in identifying and applying refactoring techniques. We used RefGame in an exploratory study that involved 322 computer science students. Then, we collected the feedback provided by these students via a survey. Our findings provide insight into the potential of gamification to make software refactoring education more accessible and effective, addressing the current challenges in teaching and learning refactoring techniques.",
+    "type": "Journal article",
+    "publication": "2024 IEEE/ACM 8th International Workshop on Games and Software Engineering (GAS)",
+    "tags": []
+  },
+  "paper45": {
+    "title": "Empirical Investigation of Accessibility Bug Reports in Mobile Platforms: A Chromium Case Study",
+    "authors": [
+      "Wajdi Aljedaani",
+      "Mohamed Wiem Mkaouer",
+      "Marcelo Medeiros Eler",
+      "Marouane Kessentini"
+    ],
+    "date": "May, 2024",
+    "year": 2024,
+    "links": {
+      "pdf": "/publication/papers/paper45.pdf",
+      "cite": "/publication/cites/paper45.bib",
+      "doi": "https://doi.org/10.1145/3613904.3642508"
+    },
+    "abstract": "Accessibility is an important quality factor of mobile applications. Many studies have shown that, despite the availability of many resources to guide the development of accessible software, most apps and web applications contain many accessibility issues. Some researchers surveyed professionals and organizations to understand the lack of accessibility during software development, but few studies have investigated how developers and organizations respond to accessibility bug reports. Therefore, this paper analyzes accessibility bug reports posted in the Chromium repository to understand how developers and organizations handle them. More specifically, we want to determine the frequency of accessibility bug reports over time, the time-to-fix compared to traditional bug reports (e.g., functional bugs), and the types of accessibility barriers reported. Results show that the frequency of accessibility reports has increased over the years, and accessibility bugs take longer to be fixed, as they tend to be given low priority.",
+    "type": "Journal article",
+    "publication": "CHI '24: Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems",
+    "tags": []
+  },
+  "paper46": {
+    "title": "Insights from the Field: Exploring Students' Perspectives on Bad Unit Testing Practices",
+    "authors": [
+      "Anthony Peruma",
+      "Eman Abdullah AlOmar",
+      "Wajdi Aljedaani",
+      "Christian D. Newman",
+      "Mohamed Wiem Mkaouer"
+    ],
+    "date": "July, 2024",
+    "year": 2024,
+    "links": {
+      "pdf": "/publication/papers/paper46.pdf",
+      "cite": "/publication/cites/paper46.bib",
+      "doi": "https://doi.org/10.1145/3649217.3653643"
+    },
+    "abstract": "Educating students about software testing practices is integral to the curricula of many computer science-related courses and typically involves students writing unit tests. Similar to production/source code, students might inadvertently deviate from established unit testing best practices, and introduce problematic code, referred to as test smells, into their test suites. Given the extensive catalog of test smells, it becomes challenging for students to identify test smells in their code, especially for those who lack experience with testing practices. In this experience report, we aim to increase students' awareness of bad unit testing practices, and detail the outcomes of having 184 students from three higher educational institutes utilize an IDE plugin to automatically detect test smells in their code. Our findings show that while students report on the plugin's usefulness in learning about and detecting test smells, they also identify specific test smells that they consider harmless. We anticipate that our findings will support academia in refining course curricula on unit testing and enabling educators to support students with code review strategies of test code.",
+    "type": "Journal article",
+    "publication": "ITiCSE 2024: Proceedings of the 2024 on Innovation and Technology in Computer Science Education V. 1",
+    "tags": []
+  },
+  "paper47": {
+    "title": "PR-DupliChecker: detecting duplicate pull requests in Fork-based workflows",
+    "authors": ["Wajdi Aljedaani"],
+    "date": "August, 2024",
+    "year": 2024,
+    "links": {
+      "pdf": "/publication/papers/paper47.pdf",
+      "cite": "/publication/cites/paper47.bib",
+      "doi": "https://doi.org/10.1007/s13198-024-02361-4"
+    },
+    "abstract": "Pull requests (PR) are a fundamental aspect of collaborative software development, allowing developers to propose changes to a codebase hosted on platforms like GitHub. They serve as a mechanism for peer review, enabling team members to assess the proposed changes before merging them into the main code repository. Duplicate pull requests occur when multiple contributors submit similar or identical proposed changes to a code repository. Such duplicate pull requests can be problematic because they create redundancy, waste developers’ time, and complicate the review process. In this paper, we propose an approach which is based on a pre-trained language model, namely BERT (Bidirectional Encoder Representations from Transformers) to automatically detect duplicate PRs in GitHub repositories. A dataset of 3328 labeled PRs collected from 26 GitHub repositories is built. This data is then fed to a BERT model in order to get the embeddings which represent the contextual relationships between the words used in pairs of pull requests. Then, the BERT’s classification outputs are fed to a Multilayer Perceptron (MLP) classifier which represents our final duplicate pull requests detector. Experiments have shown that BERT provided good performance and achieved an accuracy of 92% with MLP classifier. Results have proven that BERT’s word representation features achieved an increase of 13% (resp., 17 and 23%) compared to Siamese-BERT model (resp., DC-CNN and Word2Vec) in term of accuracy.",
+    "type": "Journal article",
+    "publication": "International Journal of System Assurance Engineering and Management",
+    "tags": []
+  },
+  "paper48": {
+    "title": "FAMTDS: A novel MFO-based fully automated malicious traffic detection system for multi-environment networks",
+    "authors": [
+      "Furqan Rustam",
+      "Wajdi Aljedaani",
+      "Mahmoud Said Elsayed",
+      "Anca Delia Jurcut"
+    ],
+    "date": "June, 2024",
+    "year": 2024,
+    "links": {
+      "pdf": "/publication/papers/paper48.pdf",
+      "cite": "/publication/cites/paper48.bib",
+      "doi": "https://doi.org/10.1016/j.comnet.2024.110603"
+    },
+    "abstract": "Multi-environment networks, such as those in smart homes, handle both IoT and traditional IP-based traffic. Weak security protocols in IoT devices and the diverse traffic flow make these networks vulnerable to security breaches. This study delves into this pressing challenge and presents a pioneering solution—FAMTDS (Fully Automated Malicious Traffic Detection System)—designed explicitly for multi-environment networks. FAMTDS addresses the critical need for robust security measures by intelligently analyzing the amalgamation of IoT and IP-based traffic. FAMTDS comprises three pivotal stages: innovative multi-environment dataset creation, optimization of machine learning model hyperparameters, and holistic system optimization. For the multi-environment dataset, we amalgamate two prominent open-source datasets, UNSW-NB-15 and IoTID-20. Initially, crucial features are extracted from both datasets using an extra trees classifier. Subsequently, an equal number of features is generated by employing a neural network to harmonize these datasets. The resulting multi-environment dataset encompasses 19 distinct attack types, a comprehensive inclusion unprecedented in prior research on malicious traffic detection. This dataset exhibits diversity owing to its varied traffic samples, addressing a crucial gap in existing studies. To accommodate this diversity, machine learning models are deployed with fine-tuned hyperparameters. The Mouth Flame Optimizer streamlines feature extraction, feature generation, and hyperparameter tuning, automating the optimization process. FAMTDS demonstrates exceptional performance, achieving an accuracy score of 0.85 for the multi-environment dataset. We also integrated the CICDDOS2019 dataset with IoTID-20 in our multi-environment dataset, achieving a notable accuracy of 0.82 against recent attacks, thus enhancing our approach’s validation. To further validate the generalizability of our proposed approach, we applied it to zero-day attack prediction. Our method demonstrated an accuracy of 0.84 for zero-day attacks, indicating its effectiveness in detecting newly emerging threats in multi-environment networks.",
+    "type": "Journal article",
+    "publication": "Computer Networks",
+    "tags": [
+      "accessibility",
+      "natural-language-processing",
+      "machine-learning",
+      "ai"
+    ],
+    "related": {
+      "papers": [
+        { "title": "paper1", "id": "paper1" },
+        { "title": "paper2", "id": "paper2" }
+      ],
+      "talks": [{ "title": "talk1", "id": "talk1" }],
+      "tools": [{ "title": "tool1", "id": "tool1" }],
+      "projects": [{ "title": "project1", "url": "https://project1.com" }]
+    }
+  },
+  "paper49": {
+    "title": "Why Are Other Teachers More Inclusive in Online Learning Than Us? Exploring Challenges Faced by Teachers of Blind and Visually Impaired Students: A Literature Review",
+    "authors": [
+      "Rana Ghoneim",
+      "Wajdi Aljedaani",
+      "Renee Bryce",
+      "Yasir Javed",
+      "Zafar Iqbal Khan"
+    ],
+    "date": "September , 2024",
+    "year": 2024,
+    "links": {
+      "pdf": "/publication/papers/paper49.pdf",
+      "cite": "/publication/cites/paper49.bib",
+      "doi": "https://doi.org/10.3390/computers13100247"
+    },
+    "abstract": "Distance learning has grown rapidly in recent years. E-learning can aid teachers of students with disabilities, particularly visually impaired students (VISs), by offering versatility, accessibility, enhanced communication, adaptability, and a wide range of multimedia and non-verbal teaching methods. However, the shift from traditional face-to-face instruction to online platforms, especially during the pandemic, introduced unique challenges for VISs, with respect to including instructional methodologies, accessibility, and the integration of suitable technology. Recent research has shown that the resources and facilities of educational institutions pose challenges for teachers of visually impaired students (TVISs). This study conducts a literature review of research studies from the years 2000 to 2024 to identify significant issues encountered by TVISs with online learning to show the effects of distance learning before, during, and after the pandemic. This systematic literature review examines 25 publications. The evaluation reveals technological problems affecting the educational experience of visually impaired educators through a methodical categorization and analysis of these papers. The results emphasize important problems and suggest solutions, providing valuable knowledge for experts in education and legislation. The study recommends technology solutions to support instructors in providing inclusive online learning environments for VISs.",
+    "type": "Journal article",
+    "publication": "Computers",
+    "tags": [
+      "accessibility",
+      "systematic-mapping",
+      "e-learning",
+      "blind-visual-impairment"
+    ],
+    "related": {
+      "papers": []
+    }
+  }
+}

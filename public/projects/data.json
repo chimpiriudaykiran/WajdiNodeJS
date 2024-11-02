@@ -1,0 +1,91 @@
+{
+  "project1": {
+    "title": "Software Unit Test Smells",
+    "description": "Unit test code, just like regular/production source code, is subject to bad programming practices, also known as anti-patterns, defects, and smells. Smells, being symptoms of bad design or implementation decisions, have been proven to decrease the quality of software systems from various aspects, such as making it harder to understand, more complex to maintain, and more prone to errors  and bugs.",
+    "consent": [
+      {
+        "": "Test smells are defined as bad programming practices in unit test code (such as how test cases are organized, implemented, and interact with each other) that indicate potential design problems in the test source code.",
+        "": "This project aims to educate developers on the types of unit testing smells that developers typically introduce or encounter when writing unit tests. To this extent, this project seeks to extend the existing test smell catalog by adding new types of test smells. Additionally, we make available an open-source tool to detect the different smell types in the source code.",
+        "Stakeholder Engagement": "Engaging a broad spectrum of stakeholders—including technology developers, legal experts, ethicists, and end-users—is crucial for the development of realistic and effective AI policies. This collaborative approach ensures that diverse perspectives are considered, making the policies more robust and widely acceptable.",
+        "Implementation Strategies": "Develop practical implementation strategies for AI policies in mobile apps, including tools and frameworks that assist developers in adhering to these policies. Regular audits, user feedback mechanisms, and continuous policy updates are planned to adapt to technological advancements and changing regulatory landscapes."
+      }
+    ],
+    "date": "",
+    "images": ["/projects/AIPolicyforMobileApp/featured.jpg"],
+    "tags": ["ai-policy", "ai-ethics", "mobile-apps"],
+    "class": ["ai", "accessibility"],
+    "related": {}
+  },
+  "project2": {
+    "title": "Artificial Intelligence Policy for Mobile Apps & Industrial Project",
+    "description": "The \"AI Policy for Mobile Apps\" initiative is designed to develop comprehensive policies that govern the use of Artificial Intelligence in mobile applications. This project aims to address the ethical, privacy, and security challenges associated with AI in mobile environments, ensuring that AI technologies enhance user experiences without compromising user rights.",
+    "consent": [
+      {
+        "Motivation": "As mobile applications increasingly incorporate AI functionalities, from personalized recommendations to automated customer support, the need for a robust policy framework that addresses the unique challenges of mobile AI becomes paramount. Issues such as data privacy, algorithmic transparency, user consent, and fairness must be managed carefully to foster trust and ensure that AI applications operate within ethical boundaries and legal standards.",
+        "Project Goals": "Establish Ethical Guidelines: Develop a set of ethical guidelines that cover key issues like data handling, consent protocols, transparency, and accountability in AI-powered mobile apps. Enhance Privacy and Security: Create policies that specifically address the privacy and security risks of AI in mobile apps, ensuring that user data is protected and that AI systems are secure against malicious use. Promote Transparency and Explainability: Ensure that AI systems used in mobile apps are transparent and their operations can be explained, allowing users to understand how and why decisions are made. Encourage Fairness and Non-discrimination: Implement guidelines to prevent biased outcomes and promote fairness, ensuring that AI applications do not discriminate against any user or group. Regulatory Compliance: Align AI policies with existing legal frameworks and regulations, facilitating compliance and fostering an environment of regulatory adherence among app developers.",
+        "Charectrization": "Through research and analysis of current AI implementations in mobile apps, this project identifies common practices and potential risks associated with AI technologies. This characterization helps in crafting policies that are both preventive and proactive, targeting areas most susceptible to ethical and legal challenges.",
+        "Stakeholder Engagement": "Engaging a broad spectrum of stakeholders—including technology developers, legal experts, ethicists, and end-users—is crucial for the development of realistic and effective AI policies. This collaborative approach ensures that diverse perspectives are considered, making the policies more robust and widely acceptable.",
+        "Implementation Strategies": "Develop practical implementation strategies for AI policies in mobile apps, including tools and frameworks that assist developers in adhering to these policies. Regular audits, user feedback mechanisms, and continuous policy updates are planned to adapt to technological advancements and changing regulatory landscapes."
+      }
+    ],
+    "date": "",
+    "images": ["/projects/AIPolicyforMobileApp/featured.jpg"],
+    "tags": ["ai-policy", "ai-ethics", "mobile-apps"],
+    "class": ["ai", "accessibility"],
+    "related": {}
+  },
+  "project3": {
+    "title": "Artificial Intelligence Policy for Mobile Apps & Industrial Project",
+    "description": "The \"AI Policy for Mobile Apps\" initiative is designed to develop comprehensive policies that govern the use of Artificial Intelligence in mobile applications. This project aims to address the ethical, privacy, and security challenges associated with AI in mobile environments, ensuring that AI technologies enhance user experiences without compromising user rights.",
+    "consent": [
+      {
+        "Motivation": "As mobile applications increasingly incorporate AI functionalities, from personalized recommendations to automated customer support, the need for a robust policy framework that addresses the unique challenges of mobile AI becomes paramount. Issues such as data privacy, algorithmic transparency, user consent, and fairness must be managed carefully to foster trust and ensure that AI applications operate within ethical boundaries and legal standards.",
+        "Project Goals": "Establish Ethical Guidelines: Develop a set of ethical guidelines that cover key issues like data handling, consent protocols, transparency, and accountability in AI-powered mobile apps. Enhance Privacy and Security: Create policies that specifically address the privacy and security risks of AI in mobile apps, ensuring that user data is protected and that AI systems are secure against malicious use. Promote Transparency and Explainability: Ensure that AI systems used in mobile apps are transparent and their operations can be explained, allowing users to understand how and why decisions are made. Encourage Fairness and Non-discrimination: Implement guidelines to prevent biased outcomes and promote fairness, ensuring that AI applications do not discriminate against any user or group. Regulatory Compliance: Align AI policies with existing legal frameworks and regulations, facilitating compliance and fostering an environment of regulatory adherence among app developers.",
+        "Charectrization": "Through research and analysis of current AI implementations in mobile apps, this project identifies common practices and potential risks associated with AI technologies. This characterization helps in crafting policies that are both preventive and proactive, targeting areas most susceptible to ethical and legal challenges.",
+        "Stakeholder Engagement": "Engaging a broad spectrum of stakeholders—including technology developers, legal experts, ethicists, and end-users—is crucial for the development of realistic and effective AI policies. This collaborative approach ensures that diverse perspectives are considered, making the policies more robust and widely acceptable.",
+        "Implementation Strategies": "Develop practical implementation strategies for AI policies in mobile apps, including tools and frameworks that assist developers in adhering to these policies. Regular audits, user feedback mechanisms, and continuous policy updates are planned to adapt to technological advancements and changing regulatory landscapes."
+      }
+    ],
+    "date": "",
+    "images": ["/projects/AIPolicyforMobileApp/featured.jpg"],
+    "tags": ["ai-policy", "ai-ethics", "mobile-apps"],
+    "class": ["ai", "accessibility"],
+    "related": {}
+  },
+  "project4": {
+    "title": "Artificial Intelligence Policy for Mobile Apps & Industrial Project",
+    "description": "The \"AI Policy for Mobile Apps\" initiative is designed to develop comprehensive policies that govern the use of Artificial Intelligence in mobile applications. This project aims to address the ethical, privacy, and security challenges associated with AI in mobile environments, ensuring that AI technologies enhance user experiences without compromising user rights.",
+    "consent": [
+      {
+        "Motivation": "As mobile applications increasingly incorporate AI functionalities, from personalized recommendations to automated customer support, the need for a robust policy framework that addresses the unique challenges of mobile AI becomes paramount. Issues such as data privacy, algorithmic transparency, user consent, and fairness must be managed carefully to foster trust and ensure that AI applications operate within ethical boundaries and legal standards.",
+        "Project Goals": "Establish Ethical Guidelines: Develop a set of ethical guidelines that cover key issues like data handling, consent protocols, transparency, and accountability in AI-powered mobile apps. Enhance Privacy and Security: Create policies that specifically address the privacy and security risks of AI in mobile apps, ensuring that user data is protected and that AI systems are secure against malicious use. Promote Transparency and Explainability: Ensure that AI systems used in mobile apps are transparent and their operations can be explained, allowing users to understand how and why decisions are made. Encourage Fairness and Non-discrimination: Implement guidelines to prevent biased outcomes and promote fairness, ensuring that AI applications do not discriminate against any user or group. Regulatory Compliance: Align AI policies with existing legal frameworks and regulations, facilitating compliance and fostering an environment of regulatory adherence among app developers.",
+        "Charectrization": "Through research and analysis of current AI implementations in mobile apps, this project identifies common practices and potential risks associated with AI technologies. This characterization helps in crafting policies that are both preventive and proactive, targeting areas most susceptible to ethical and legal challenges.",
+        "Stakeholder Engagement": "Engaging a broad spectrum of stakeholders—including technology developers, legal experts, ethicists, and end-users—is crucial for the development of realistic and effective AI policies. This collaborative approach ensures that diverse perspectives are considered, making the policies more robust and widely acceptable.",
+        "Implementation Strategies": "Develop practical implementation strategies for AI policies in mobile apps, including tools and frameworks that assist developers in adhering to these policies. Regular audits, user feedback mechanisms, and continuous policy updates are planned to adapt to technological advancements and changing regulatory landscapes."
+      }
+    ],
+    "date": "",
+    "images": ["/projects/AIPolicyforMobileApp/featured.jpg"],
+    "tags": ["ai-policy", "ai-ethics", "mobile-apps"],
+    "class": ["ai", "accessibility"],
+    "related": {}
+  },
+  "project5": {
+    "title": "Artificial Intelligence Policy for Mobile Apps & Industrial Project",
+    "description": "The \"AI Policy for Mobile Apps\" initiative is designed to develop comprehensive policies that govern the use of Artificial Intelligence in mobile applications. This project aims to address the ethical, privacy, and security challenges associated with AI in mobile environments, ensuring that AI technologies enhance user experiences without compromising user rights.",
+    "consent": [
+      {
+        "Motivation": "As mobile applications increasingly incorporate AI functionalities, from personalized recommendations to automated customer support, the need for a robust policy framework that addresses the unique challenges of mobile AI becomes paramount. Issues such as data privacy, algorithmic transparency, user consent, and fairness must be managed carefully to foster trust and ensure that AI applications operate within ethical boundaries and legal standards.",
+        "Project Goals": "Establish Ethical Guidelines: Develop a set of ethical guidelines that cover key issues like data handling, consent protocols, transparency, and accountability in AI-powered mobile apps. Enhance Privacy and Security: Create policies that specifically address the privacy and security risks of AI in mobile apps, ensuring that user data is protected and that AI systems are secure against malicious use. Promote Transparency and Explainability: Ensure that AI systems used in mobile apps are transparent and their operations can be explained, allowing users to understand how and why decisions are made. Encourage Fairness and Non-discrimination: Implement guidelines to prevent biased outcomes and promote fairness, ensuring that AI applications do not discriminate against any user or group. Regulatory Compliance: Align AI policies with existing legal frameworks and regulations, facilitating compliance and fostering an environment of regulatory adherence among app developers.",
+        "Charectrization": "Through research and analysis of current AI implementations in mobile apps, this project identifies common practices and potential risks associated with AI technologies. This characterization helps in crafting policies that are both preventive and proactive, targeting areas most susceptible to ethical and legal challenges.",
+        "Stakeholder Engagement": "Engaging a broad spectrum of stakeholders—including technology developers, legal experts, ethicists, and end-users—is crucial for the development of realistic and effective AI policies. This collaborative approach ensures that diverse perspectives are considered, making the policies more robust and widely acceptable.",
+        "Implementation Strategies": "Develop practical implementation strategies for AI policies in mobile apps, including tools and frameworks that assist developers in adhering to these policies. Regular audits, user feedback mechanisms, and continuous policy updates are planned to adapt to technological advancements and changing regulatory landscapes."
+      }
+    ],
+    "date": "",
+    "images": ["/projects/AIPolicyforMobileApp/featured.jpg"],
+    "tags": ["ai-policy", "ai-ethics", "mobile-apps"],
+    "class": ["ai", "accessibility"],
+    "related": {}
+  }
+}

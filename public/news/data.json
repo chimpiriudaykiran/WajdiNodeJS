@@ -1,0 +1,141 @@
+{
+  "news1": {
+    "title": "Accepted Paper at ICSE-SEET 2023",
+    "url": "javascript:void(0);",
+    "description": "Our paper titled 'Do the Test Smells Assertion Roulette and Eager Test Impact Students’ Troubleshooting and Debugging Capabilities?' has been accepted for presentation, exploring the effects of test smells on students' debugging skills.",
+    "date": "May, 2023",
+    "location": {
+      "name": "Software Engineering Education and Training (ICSE-SEET)",
+      "url": "javascript:void(0);"
+    },
+    "images": ["/talks/talk2/featured.jpg"]
+  },
+  "news2": {
+    "title": "Accepted Paper at W4A’23",
+    "url": "javascript:void(0);",
+    "description": "Our paper titled 'The State of Accessibility in Blackboard: Survey and User Reviews Case Study' has been accepted.",
+    "date": "April 30 - May 1, 2023",
+    "location": {
+      "name": "20th International Web for All Conference (W4A’23)",
+      "url": "javascript:void(0);"
+    },
+    "images": ["/talks/talk1/featured.jpg"]
+  },
+  "news3": {
+    "title": "Accepted Paper at CHI 2024",
+    "url": "javascript:void(0);",
+    "description": "Our paper titled 'Empirical Investigation of Accessibility Bug Reports in Mobile Platforms: A Chromium Case Study' has been accepted for presentation.",
+    "date": "May 11-16, 2024",
+    "location": {
+      "name": "Conference on Human Factors in Computing Systems (CHI)",
+      "url": "javascript:void(0);"
+    },
+    "images": ["/talks/talk4/sample1.jpg"]
+  },
+  "news4": {
+    "title": "Accepted Papers at W4A’24",
+    "url": "javascript:void(0);",
+    "description": "Our five papers have been accepted at the 21st International Web for All Conference (W4A’24), 2024.",
+    "date": "May 13-14, 2024",
+    "location": {
+      "name": "21st International Web for All Conference (W4A’24)",
+      "url": "javascript:void(0);"
+    },
+    "images": ["/talks/talk3/featured.jpg"]
+  },
+  "news5": {
+    "title": "Certification of Recognition",
+    "url": "javascript:void(0);",
+    "description": "Received the 2024 CSE Professional Faculty Teaching Award from the UNT Department of Computer Science and Engineering, honoring our commitment to excellence in teaching and mentoring.",
+    "date": "2024",
+    "location": {
+      "name": "UNT Department of Computer Science and Engineering",
+      "url": "javascript:void(0);"
+    },
+    "images": ["/certificates/TeachingAward.jpg"]
+  },
+  "news6": {
+    "title": "Accessibility Challenge Judges' Award",
+    "url": "/talks/talk.html?id=talk3",
+    "description": "Awarded for the project 'Beyond Sight: Empowering Visually Impaired Users with Audible Graphs,' recognizing our innovative approach to enhancing accessibility for visually impaired users.",
+    "date": "May 13-14, 2024",
+    "location": {
+      "name": "21st International Web for All Conference",
+      "url": "javascript:void(0);"
+    },
+    "images": ["/certificates/BeyondSight.jpg"]
+  },
+  "news7": {
+    "title": "Led TA Training Program at UNT",
+    "url": "javascript:void(0);",
+    "description": "I had the opportunity to lead our recent Teaching Assistantship (TA) Training program at the UNT Department of Computer Science & Engineering at the University of North Texas.",
+    "date": "August 2024",
+    "location": {
+      "name": "University of North Texas, Department of Computer Science & Engineering",
+      "url": "https://engineering.unt.edu/cse/"
+    },
+    "images": ["/talks/talk5/featured.jpg"]
+  },
+  "news8": {
+    "title": "Research Presentation at UNT Open House",
+    "url": "javascript:void(0);",
+    "description": "I had the pleasure of presenting our research projects in HCI & Accessibility at the recent Open House at the University of North Texas UNT Department of Computer Science & Engineering.",
+    "date": "August 2024",
+    "location": {
+      "name": "University of North Texas, Department of Computer Science & Engineering",
+      "url": "https://engineering.unt.edu/cse/"
+    },
+    "images": ["/talks/talk6/featured.jpg"]
+  },
+  "news9": {
+    "title": "Successful PhD Defense",
+    "url": "javascript:void(0);",
+    "description": "Dr. Asmaa Alghamdi successfully defended her PhD dissertation, marking a significant milestone as my first PhD student.",
+    "date": "September, 2024",
+    "location": {
+      "name": "University of North Texas",
+      "url": "https://www.unt.edu/"
+    }
+  },
+  "news10": {
+    "title": "Accepted Paper at Universal Access in the Information Society",
+    "url": "javascript:void(0);",
+    "description": "Our paper titled 'Understanding Developer Challenges and Trends in Web Accessibility: A Stack Overflow Analysis' has been accepted for presentation, contributing to the discourse on web accessibility challenges faced by developers.",
+    "date": "November, 2024",
+    "location": {
+      "name": "Universal Access in the Information Society",
+      "url": "javascript:void(0);"
+    }
+  },
+  "news11": {
+    "title": "Accepted Papers at CDMA 2024",
+    "url": "javascript:void(0);",
+    "description": "Our two papers have been accepted for presentation, highlighting our research contributions in data science and machine learning.",
+    "date": "January, 2024",
+    "location": {
+      "name": "8th International Conference on Data Science and Machine Learning (CDMA)",
+      "url": "javascript:void(0);"
+    }
+  },
+  "news12": {
+    "title": "Three Accepted Papers at SIGCSE 2024",
+    "url": "https://sigcse2025.sigcse.org/track/sigcse-ts-2025-Papers#event-overview",
+    "description": "Our three papers have been accepted for presentation, highlighting our research contributions in computer science education.",
+    "date": "February, 2025",
+    "location": {
+      "name": "Technical Symposium on Computer Science Education (SIGCSE)",
+      "url": "https://sigcse2025.sigcse.org/"
+    }
+  },
+  "news13": {
+    "title": "Received the Best Paper Award at IHC 2024",
+    "url": "javascript:void(0);",
+    "description": "Our paper received the Best Paper Award for the work 'Strategic Insights into Integrating Accessibility in Software Development: Motivations, Barriers, Commitments, and Business Value'.",
+    "date": "October, 2024",
+    "location": {
+      "name": "Brazilian Symposium on Human Factors in Computing Systems (IHC 2024)",
+      "url": "https://ihc.sbc.org.br/2024/en/home/"
+    },
+    "images": ["/news/news1/certificate.png"]
+  }
+}

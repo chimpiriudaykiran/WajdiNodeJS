@@ -1,0 +1,138 @@
+{
+  "android-applications": {
+    "name": "Android Applications",
+    "description": "Android Applications"
+  },
+  "accessibility": {
+    "name": "Accessibility",
+    "description": "Accessibility"
+  },
+  "ai": {
+    "name": "Artificial Intelligence",
+    "description": "Artificial Intelligence"
+  },
+  "deaf-hard-of-hearing": {
+    "name": "Deaf & Hard of Hearing",
+    "description": "Deaf & Hard of Hearing"
+  },
+  "user-review": {
+    "name": "User Review",
+    "description": "User Review"
+  },
+  "sentiment-analysis": {
+    "name": "Sentiment Analysis",
+    "description": "Sentiment Analysis"
+  },
+  "software-maintenance-and-evolution": {
+    "name": "Software Maintenance and Evolution",
+    "description": "Software Maintenance and Evolution"
+  },
+  "software-quality": {
+    "name": "Software Quality",
+    "description": "Software Quality"
+  },
+  "test-smells": {
+    "name": "Test Smells",
+    "description": "Test Smells"
+  },
+  "unit-test": {
+    "name": "Unit Test",
+    "description": "Unit Test"
+  },
+  "covid-19": {
+    "name": "COVID-19",
+    "description": "COVID-19"
+  },
+  "e-learning": {
+    "name": "E-learning",
+    "description": "E-learning"
+  },
+  "education": {
+    "name": "Education",
+    "description": "Education"
+  },
+  "docker": {
+    "name": "Docker",
+    "description": "Docker"
+  },
+  "many-objective-optimization": {
+    "name": "Many-Objective Optimization",
+    "description": "Many-Objective Optimization"
+  },
+  "arabic-detection": {
+    "name": "Arabic Detection",
+    "description": "Arabic Detection"
+  },
+  "big-data": {
+    "name": "Big Data",
+    "description": "Big Data"
+  },
+  "deep-learning": {
+    "name": "Deep Learning",
+    "description": "Deep Learning"
+  },
+  "machine-learning": {
+    "name": "Machine Learning",
+    "description": "Machine Learning"
+  },
+  "social-media": {
+    "name": "Social Media",
+    "description": "Social Media"
+  },
+  "detection-tools": {
+    "name": "Detection Tools",
+    "description": "Detection Tools"
+  },
+  "systematic-mapping": {
+    "name": "Systematic Mapping",
+    "description": "Systematic Mapping"
+  },
+  "bug-report": {
+    "name": "Bug Report",
+    "description": "Bug Report"
+  },
+  "medical-predictions": {
+    "name": "Medical Predictions",
+    "description": "Medical Predictions"
+  },
+  "mobile-application": {
+    "name": "Mobile Application",
+    "description": "Mobile Application"
+  },
+  "software-repository-mining": {
+    "name": "Software Repository Mining",
+    "description": "Software Repository Mining"
+  },
+  "web-application-analysis": {
+    "name": "Web Application Analysis",
+    "description": "Web Application Analysis"
+  },
+  "image-classification": {
+    "name": "Image Classification",
+    "description": "Image Classification"
+  },
+  "databse": {
+    "name": "Databse",
+    "description": "Databse"
+  },
+  "pull-request": {
+    "name": "Pull Request",
+    "description": "Pull Request"
+  },
+  "lda": {
+    "name": "LDA",
+    "description": "LDA"
+  },
+  "blind-visual-impairment": {
+    "name": "Blind/Visual Impairment",
+    "description": "Blind/Visual Impairment"
+  },
+  "data-visualization": {
+    "name": "Data Visualization",
+    "description": "Data Visualization"
+  },
+  "natural-language-processing": {
+    "name": "Natural Language Processing",
+    "description": "Natural Language Processing"
+  }
+}

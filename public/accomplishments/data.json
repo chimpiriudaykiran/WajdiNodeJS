@@ -1,0 +1,90 @@
+{
+  "accomplishment1": {
+    "title": "Award The Student Of The Year",
+    "event": "Sponsored by Saudi Arabian Cultural Bureau Ireland",
+    "date": "Sep 2013",
+    "awardFor": "The Best Student in the Bachelor of Engineering in Software Engineering in Ireland",
+    "certificateLink": "/certificates/Award_Sep2013.pdf",
+    "eventLink": "https://www.sacm.org/"
+  },
+  "accomplishment2": {
+    "title": "Award The Student Of The Year",
+    "event": "Sponsored by the AIT Software Research Institute",
+    "date": "Oct 2013",
+    "awardFor": "The Best Student in the Bachelor of Engineering in Computer Engineering",
+    "certificateLink": "/certificates/Award_Oct2013.pdf",
+    "eventLink": "https://www.ait.ac.at/en/about-the-ait/center"
+  },
+  "accomplishment3": {
+    "title": "Award The Student Of The Year",
+    "event": "Sponsored by Saudi Arabian Cultural Bureau Ireland",
+    "date": "Oct 2014",
+    "awardFor": "The Best Student in the Bachelor of Engineering in Software Engineering in Ireland",
+    "certificateLink": "/certificates/Award_2014.pdf",
+    "eventLink": "https://www.sacm.org/"
+  },
+  "accomplishment4": {
+    "title": "Full Scholarship For Master’s Degree In Software Engineering",
+    "event": "Saudi Ministry of Education, Riyadh, Saudi Arabia",
+    "date": "Jan 2015",
+    "awardFor": "Master degree in Software Engineering at Rochester Institute of Technology",
+    "certificateLink": "",
+    "eventLink": "https://moe.gov.sa/en/Pages/default.aspx"
+  },
+  "accomplishment5": {
+    "title": "Teaching Assistantship Scholarship ($36,400/yr)",
+    "event": "University of North Texas, Denton, TX, USA",
+    "date": "Jan 2021",
+    "awardFor": "PhD in Computer Science and Engineering Degree",
+    "certificateLink": "",
+    "eventLink": "https://www.unt.edu/"
+  },
+  "accomplishment6": {
+    "title": "Teaching Assistantship Scholarship ($36,400/yr)",
+    "event": "University of North Texas, Denton, TX, USA",
+    "date": "Jan 2022",
+    "awardFor": "PhD in Computer Science and Engineering Degree",
+    "certificateLink": "",
+    "eventLink": "https://www.unt.edu/"
+  },
+  "accomplishment7": {
+    "title": "Student Travel Grant",
+    "event": "University of North Texas, Denton, TX, USA",
+    "date": "March 2023",
+    "awardFor": "Do the Test Smells Assertion Roulette and Eager Test Impact Students' Troubleshooting and Debugging Capabilities?",
+    "certificateLink": "",
+    "eventLink": "https://www.unt.edu/"
+  },
+  "accomplishment8": {
+    "title": "Honorable Mentions Award",
+    "event": "The ACM CHI Conference on Human Factors in Computing Systems",
+    "date": "April 2023",
+    "awardFor": "Analyzing Accessibility Reviews Associated with Visual Disabilities or Eye Conditions",
+    "certificateLink": "/certificates/Honorable-mention-award-CHI2023.pdf",
+    "eventLink": "https://programs.sigchi.org/chi/2023/program/content/95869"
+  },
+  "accomplishment9": {
+    "title": "Certification of Recognition",
+    "event": "UNT Dept. of Computer Science and Engineering",
+    "date": "2024",
+    "awardFor": "2024 CSE Professional Faculty Teaching Award",
+    "certificateLink": "../certificates/ProfessionalTeachingAward.pdf",
+    "eventLink": "https://engineering.unt.edu/cse/index.html"
+  },
+  "accomplishment10": {
+    "title": "Accessibility Challenge Judges' Award",
+    "event": "The 21st International Web for All Conference, Singapore 2024",
+    "date": "May 13-14, 2024",
+    "awardFor": "Beyond Sight: Empowering Visually Impaired Users with Audible Graphs",
+    "certificateLink": "../certificates/AccessbilityChallenge.pdf",
+    "eventLink": "https://www.w4a.info/2024/"
+  },
+  "accomplishment11": {
+    "title": "Best Paper Award",
+    "event": "Brazilian Symposium on Human Factors in Computing Systems (IHC 2024)",
+    "date": "October 7-11, 2024",
+    "awardFor": "Strategic Insights into Integrating Accessibility in Software Development: Motivations, Barriers, Commitments, and Business Value",
+    "certificateLink": "/certificates/Certificate Best Paper - Research Track - IHC 2024.pdf",
+    "eventLink": "https://ihc.sbc.org.br/2024/en/home/"
+  }
+}

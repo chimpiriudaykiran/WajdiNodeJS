@@ -1,0 +1,165 @@
+{
+  "talk1": {
+    "title": "The State of Accessibility in Blackboard: Survey and User Reviews Case Study",
+    "date": "May 1, 2023",
+    "description": "Context: Nowadays, mobile applications (or apps) have become vital in our daily life, particularly within education. Many institutions increasingly rely on mobile apps to provide access to all their students. However, many educational mobile apps remain inaccessible to users with disabilities who need to utilize accessibility features like talkback or screen reader features. Accessibility features have to be considered in mobile apps to foster equity and inclusion in the educational environment, allowing the use of such apps without limitations. Gaps in the accessibility of educational systems persist.\n\n Objective: In this paper, we focus on the accessibility of the Blackboard mobile app, one of the most common Learning Management Systems (LMS) used by many universities, especially during the COVID-19 pandemic.\n\nMethod: This study is divided into two parts. First, we conducted a survey using questionnaires and interviews to explore the extent to which students consider the Blackboard mobile app usable. A total of 1,308 hearing students and 65 deaf and hard-of-hearing students participated in the study. Second, we collected 15,478 user reviews from the Google Play Store and analyzed them to extract accessibility issues.\n\nResult: We observed that most deaf and hard-of-hearing students found difficulties in the Blackboard mobile app compared to hearing students. Our app store analysis also showed that only 31% of the reviews reported violations of accessibility principles that apps like Blackboard must comply with. This study highlights these violations and their corresponding implications to support LMS frameworks in becoming more inclusive for all users.",
+    "images": ["/talks/talk1/featured.jpg"],
+    "event": {
+      "name": "Web4All 2023 Conference",
+      "link": "https://www.w4a.info/2023/"
+    },
+    "location": {
+      "name": "The ACM Web Conference 2024",
+      "address": "Austin, Texas"
+    },
+    "class": ["ai", "accessibility"],
+    "tags": [
+      "accessibility",
+      "android-applications",
+      "deaf-hard-of-hearing",
+      "mobile-application",
+      "user-review",
+      "e-learning",
+      "education"
+    ]
+  },
+  "talk2": {
+    "title": "Do the Test Smells Assertion Roulette and Eager Test Impact Students’ Troubleshooting and Debugging?",
+    "date": "May 17, 2023",
+    "description": "To ensure the quality of a software system, developers perform an activity known as unit testing, where they write code (known as test cases) that verifies the individual software units that make up the system. Like production code, test cases are subject to bad programming practices, known as test smells, that hurt maintenance activities. An essential part of most maintenance activities is program comprehension, which involves developers reading the code to understand its behavior to fix issues or update features. In this study, we conduct a controlled experiment with 96 undergraduate computer science students to investigate the impact of two common types of test smells, namely Assertion Roulette and Eager Test, on a student’s ability to debug and troubleshoot test case failures. Our findings show that students take longer to correct errors in production code when smells are present in their associated test cases, especially Assertion Roulette. We envision our findings supporting academia in better equipping students with the knowledge and resources to write and maintain high-quality test cases. Our experimental materials are available online.",
+    "images": ["/talks/talk2/featured.jpg"],
+    "event": {
+      "name": "ICSE 2023 Conference",
+      "link": "https://conf.researchr.org/track/icse-2023/icse-2023-seet"
+    },
+    "location": {
+      "name": "Melbourne, Australia",
+      "address": ""
+    },
+    "class": ["testing"],
+    "tags": ["unit-test", "test-smells", "software-maintenance-and-evolution"]
+  },
+
+  "talk3": {
+    "title": "Enhancing Data Accessibility for Visually Impaired Users through Innovative Data Visualization Tools",
+    "date": "May 18, 2024",
+    "description": "Data visualization is a cornerstone of modern information processing, enabling users to derive meaningful insights from complex datasets. However, individuals with visual impairments encounter substantial barriers when accessing and interpreting traditional visual data representations. In response to this challenge, this paper introduces a novel data visualization tool specifically designed to enhance accessibility for visually impaired users. The tool converts Excel data into audible graphs and transforms images into detailed textual or spoken descriptions, thereby enabling users to engage with data in a non-visual format. By leveraging advanced technologies such as natural language processing and speech synthesis, the tool empowers visually impaired individuals to independently explore visual data, fostering greater autonomy and participation in data-driven decision-making processes. This research adopts a user-centered design approach and employs innovative assistive technologies to bridge the accessibility gap in data visualization. By ensuring that individuals of all visual abilities can extract valuable insights from complex datasets, this work contributes to a more inclusive and equitable data analysis experience for everyone.",
+    "images": [
+      "/talks/talk3/featured.jpg",
+      "/talks/talk3/sample1.jpg",
+      "/talks/talk3/sample2.jpg",
+      "/talks/talk3/sample3.jpg"
+    ],
+    "event": {
+      "name": "Web4All 2024 Conference",
+      "link": "https://www2024.thewebconf.org/"
+    },
+    "tags": [
+      "accessibility",
+      "data-visualization",
+      "ai",
+      "blind-visual-impairment"
+    ],
+    "location": {
+      "name": "The ACM Web Conference 2024",
+      "address": "Singapore"
+    },
+    "class": ["ai", "accessibility"]
+  },
+
+  "talk4": {
+    "title": "Empirical Investigation of Accessibility Bug Reports in Mobile Platforms: A Chromium Case Study",
+    "date": "May 23, 2024",
+    "description": "I recently had the honor of delivering a talk to present my paper, 'Empirical Investigation of Accessibility Bug Reports in Mobile Platforms: A Chromium Case Study,' at the prestigious CHI conference. This research builds on an in-depth analysis of accessibility issues in mobile platforms, with a specific focus on the Chromium project. Our work involved developing a taxonomy to categorize accessibility issues, providing developers with a structured framework to prioritize and better understand the nature of accessibility bug reports. The taxonomy we introduced offers a systematic approach for identifying and addressing accessibility problems, ultimately enhancing the user experience for all. Our findings highlight critical areas where accessibility challenges persist and present insights that can inform more inclusive design and development practices. Presenting at CHI and engaging in meaningful discussions with esteemed colleagues and experts from around the world was an incredibly rewarding experience. It was inspiring to witness the collective dedication to advancing accessibility research and to contribute to the ongoing dialogue in this vital field.",
+    "images": [
+      "/talks/talk4/featured.jpg",
+      "/talks/talk4/sample1.jpg",
+      "/talks/talk4/sample2.jpg",
+      "/talks/talk4/sample3.jpg"
+    ],
+    "event": {
+      "name": "CHI Conference, 2024",
+      "link": "https://www.w4a.info/2023/"
+    },
+    "location": {
+      "name": "Hawaii Convention Center",
+      "address": "Honolulu, Hawaii"
+    },
+    "tags": [
+      "accessibility",
+      "mobile-application",
+      "bug-report",
+      "software-repository-mining"
+    ],
+    "class": ["ai", "accessibility"]
+  },
+
+  "talk5": {
+    "title": "Leading the Teaching Assistantship (TA) Training Program at UNT Department of Computer Science & Engineering",
+    "date": "August 16, 2024",
+    "description": "The University of North Texas (UNT) Department of Computer Science & Engineering recently hosted a comprehensive Teaching Assistantship (TA) Training program, designed to prepare our TAs for the critical role they play in supporting student success and enhancing the quality of education. I had the privilege of leading this event, which brought together new and returning TAs for an immersive learning experience focused on the essential skills and strategies needed to excel in their teaching roles. The training program covered a wide range of topics, including effective teaching strategies, classroom management, student assessment, and the integration of innovative technologies. Through a combination of interactive workshops, group discussions, and practical exercises, participants engaged deeply with the material, gaining valuable insights into how to create inclusive and impactful learning environments. Key sessions included: Effective Teaching Strategies, Classroom Management, Assessment and Feedback, and Innovative Technologies. The event was not only an opportunity for skill development but also a chance for TAs to connect, share experiences, and build a supportive community. The enthusiasm and active participation of all attendees were truly inspiring, reflecting their dedication to making a positive impact in their teaching roles.",
+    "images": [
+      "/talks/talk5/featured.jpg",
+      "/talks/talk5/sample1.jpg",
+      "/talks/talk5/sample2.jpg",
+      "/talks/talk5/sample3.jpg",
+      "/talks/talk5/sample4.jpg"
+    ],
+    "event": {
+      "name": "Teaching Assistantship (TA) Training program",
+      "link": "javascript:void(0)"
+    },
+    "location": {
+      "name": "University of North Texas",
+      "address": "Denton, TX"
+    },
+    "tags": ["e-learning", "education"],
+    "class": []
+  },
+  "talk6": {
+    "title": "Presentation at UNT Department of Computer Science and Engineering Open House",
+    "date": "September 9, 2024",
+    "description": "I had the honor of presenting my research on Human-Computer Interaction (HCI) and Accessibility at the recent Open House organized by the University of North Texas Department of Computer Science and Engineering. My talk, titled \"Discovering Accessibility and Usability Challenges in Software Engineering: Insights and Best Practices,\" explored the intersection of software development and inclusive design, highlighting common accessibility and usability issues that arise throughout the software engineering lifecycle. I shared findings from various case studies, discussed practical approaches for identifying and mitigating these challenges, and emphasized the importance of integrating accessibility and usability considerations into every stage of software development. The event provided an excellent platform to engage with students and faculty, showcasing the innovative work being done to create technology that is not only functional but also accessible to all users. I was delighted by the enthusiasm of students who expressed interest in contributing to these research efforts, offering insightful perspectives and demonstrating a passion for making a positive impact in technology accessibility and usability.",
+    "images": [
+      "/talks/talk6/featured.jpg",
+      "/talks/talk6/sample1.jpg",
+      "/talks/talk6/sample2.jpg"
+    ],
+    "event": {
+      "name": "Open House Fall '24",
+      "link": "javascript:void(0)"
+    },
+    "location": {
+      "name": "University of North Texas",
+      "address": "Denton, TX"
+    },
+    "tags": ["e-learning", "education", "accessibility", "ai"],
+    "class": ["ai", "accessibility"]
+  },
+  "talk7": {
+    "title": "Addressing Accessibility Challenges in Mobile Apps: Insights from Chromium Bug Reports",
+    "date": "October 5, 2024",
+    "description": "I recently had the opportunity to give a talk at the UNT Department of Computer Science & Engineering seminar, where I discussed Mobile Apps Accessibility and the various challenges and issues that arise, using insights from my recent research in the case study of Chromium Mobile Apps. Accessibility is a crucial quality factor for mobile applications. Despite the availability of many resources to guide the development of accessible software, most apps and web applications still contain a significant number of accessibility issues. In my talk, I presented findings from my analysis of accessibility bug reports posted in the Chromium repository. My research aimed to understand how developers and organizations respond to these reports and identify the types of accessibility barriers that are most commonly reported. I also explored the frequency of accessibility bug reports over time and compared the time-to-fix for accessibility issues against traditional bugs. It was great to see so much interest and engagement from students and faculty during the seminar, and I received valuable feedback on my findings.",
+    "images": [
+      "/talks/talk7/featured.jpg",
+      "/talks/talk7/sample1.jpg",
+      "/talks/talk7/sample2.jpg",
+      "/talks/talk7/sample3.jpg"
+    ],
+    "event": {
+      "name": "UNT Department of Computer Science & Engineering Seminar",
+      "link": "javascript:void(0)"
+    },
+    "location": {
+      "name": "University of North Texas",
+      "address": "Denton, TX"
+    },
+    "tags": [
+      "accessibility",
+      "mobile-application",
+      "bug-report",
+      "software-repository-mining"
+    ],
+    "class": ["ai", "accessibility"]
+  }
+}

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JSON Editor</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="/media/icon_hu82aa433f936a5100743743c7f893db49_18798_32x32_fill_lanczos_center_3.png"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+      integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="/css/style.css" />
+    <style>
+      .json-key-card {
+        cursor: pointer;
+        margin-bottom: 10px;
+      }
+      .editor-container {
+        margin-top: 10px;
+      }
+      .tree-node {
+        cursor: pointer;
+        margin-left: 20px;
+      }
+      .tree-node .children {
+        display: none;
+        margin-left: 20px;
+      }
+      .expanded > .children {
+        display: block;
+      }
+      .arrow {
+        margin-right: 5px;
+      }
+      .selected-node {
+        background-color: #e0f7fa;
+      }
+      /* Scrollable container for left panel */
+      #jsonContainer {
+        max-height: 100vh;
+        overflow-y: auto;
+      }
+      #jsonTreeContainer {
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #f8f9fa;
+      }
+
+      .main {
+        width: 100%;
+        position: absolute;
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div class="row main">
+        <!-- Left Section: JSON Tree and File List -->
+        <div class="col-md-3 border-end" id="jsonContainer">
+          <div id="jsonFileListContainer">
+            <h4>JSON Files</h4>
+            <div id="jsonFileList" class="list-group"></div>
+          </div>
+
+          <div id="jsonTreeContainer" class="d-none">
+            <div id="backButtonContainer" class="mb-2">
+              <button id="backButton" class="btn btn-secondary">
+                <i class="fa-solid fa-arrow-left"></i> Back
+              </button>
+            </div>
+            <h4>JSON Tree</h4>
+            <div class="mb-2">
+              <button id="expandAllBtn" class="btn btn-outline-primary">
+                Expand All
+              </button>
+              <button id="collapseAllBtn" class="btn btn-outline-primary">
+                Collapse All
+              </button>
+            </div>
+            <div id="jsonTree" class="tree-container mb-3"></div>
+            <div id="selectedNodeDisplay" class="mt-2"></div>
+          </div>
+        </div>
+
+        <!-- Right Section: JSON Editor -->
+        <div class="col-md-9">
+          <h4>JSON Editor</h4>
+
+          <div class="mt-3">
+            <input
+              id="newKeyInput"
+              type="text"
+              class="form-control mb-2"
+              placeholder="Enter new key name"
+            />
+          </div>
+
+          <div id="editor" class="editor-container"></div>
+          <button id="saveBtn" class="btn btn-success mt-3">
+            Save Changes
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses | Wajdi Aljedaani</title>
+    <link>courses/</link>
+      <atom:link href="courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>media/icon_hu82aa433f936a5100743743c7f893db49_18798_512x512_fill_lanczos_center_3.png</url>
+      <title>Courses</title>
+      <link>courses/</link>
+    </image>
+    
+    <item>
+      <title>CSCE 4901 - Software Development Capstone I</title>
+      <link>courses/example/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>courses/example/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;Course Description&lt;/p&gt;
+&lt;p&gt;First of a two-course sequence in which students develop a complex Software System starting from customer requirements and progressing through the entire analysis, design, implementation, testing, and delivery lifecycle. Students work in teams to develop a project plan, complete the project&amp;rsquo;s technical components, prepare various deliverable documents, and finally deliver the finished product to the customer. The first course will focus on the analysis and design of the system. Prerequisite(s): CSCE 3444 and TECM 2700, each with a grade of C or better.&lt;/p&gt;
+&lt;!-- Other Details
+
+Student Level
+
+Undergraduate (final year) --&gt;
+&lt;p&gt;Instructed Semesters&lt;/p&gt;
+&lt;p&gt;2022 Fall&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CSCE 3444 - Software Engineering</title>
+      <link>courses/course2/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>courses/course2/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;Course Description&lt;/p&gt;
+&lt;p&gt;An overview course in software engineering emphasizing software design and software development projects. The course will focus on object-oriented (OO) analysis, design principles, and techniques. Students will be introduced to OO modeling, design patterns, and design/code refactoring techniques. While there is a significant emphasis on product development, students will be required to use a rigorous process in a team-based product development project. Major topics include analysis and specification of software, subsystem modeling using patterns, and software testing. A term-long, team-based project is used to reinforce concepts presented in class. Programming is required. (Prerequisite(s) CSCE 3110 with a grade of C or better).&lt;/p&gt;
+&lt;!-- Other Details
+
+Student Level
+
+Undergraduate (final year) --&gt;
+&lt;p&gt;Instructed Semesters&lt;/p&gt;
+&lt;p&gt;2022 Fall&lt;/p&gt;
+&lt;p&gt;2022 Summer&lt;/p&gt;
+&lt;p&gt;2022 Spring&lt;/p&gt;
+&lt;p&gt;2021 Fall&lt;/p&gt;
+&lt;p&gt;2021 Summer&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ICMT 121 - Computer Assembly and Operating</title>
+      <link>courses/course4/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>courses/course4/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;Course Description&lt;/p&gt;
+&lt;p&gt;This course introduces the main concepts of information technology basics for the installation and assembly of computer components and their operation through the identification of computer components and their Methods and practical training in their assembly to form a computer and then equip it with the appropriate operating system. This includes training in the operating system&amp;rsquo;s various tools, features, and methods and the device&amp;rsquo;s initial and preventive maintenance methods. The course introduces advanced concepts of computers such as security, networks, and peripherals such as printers and the responsibilities of IT professionals. This course represents the basic training skills for Cisco IT Essential and CompTIA A +. Training on the content of this course is carried out by the Cisco Networking Academy (e-Training Center and Training Resources) through the curriculum of the Cisco IT Essentials v6 (Chapters 1-14).&lt;/p&gt;
+&lt;!-- Other Details
+
+Student Level
+
+Undergraduate (final year) --&gt;
+&lt;p&gt;Instructed Semesters&lt;/p&gt;
+&lt;p&gt;2019 Fall&lt;/p&gt;
+&lt;p&gt;2019 Spring&lt;/p&gt;
+&lt;p&gt;2018 Fall&lt;/p&gt;
+&lt;p&gt;2018 Spring&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IPRG 111 - Fundamentals of Computer Programming</title>
+      <link>courses/course3/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>courses/course3/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;Course Description&lt;/p&gt;
+&lt;p&gt;This course introduces the trainee to a set of basic skills in accidental guidance programming. This course includes identifying the environment used for Editing program editing operations, translating it into the machine language, implementing the program, correcting errors, and representing data and mathematical and logical operations. The trainee learns about the condition clauses and the iterations, in addition to building and calling Method Invocation Methods and dealing with the two-dimensional arrays. After that, the trainee will move to the topics that cover programming objects for the purpose of guidance AB, which includes the subject of classes and data encapsulation, in addition to defining and using the Methods of the Java library API&lt;/p&gt;
+&lt;!-- Other Details
+
+Student Level
+
+Undergraduate (final year) --&gt;
+&lt;p&gt;Instructed Semesters&lt;/p&gt;
+&lt;p&gt;2020 Fall&lt;/p&gt;
+&lt;p&gt;2020 Spring&lt;/p&gt;
+&lt;p&gt;2019 Fall&lt;/p&gt;
+&lt;p&gt;2018 Fall&lt;/p&gt;
+&lt;p&gt;2018 Spring&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ISUP 295 - Project</title>
+      <link>courses/course5/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>courses/course5/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;Course Description&lt;/p&gt;
+&lt;p&gt;This course aims to implement the trainee an applied practical project related to the specialty within a team of his colleagues and under the supervision of the course instructor during the training semester, and then prepare a comprehensive technical report on this project.&lt;/p&gt;
+&lt;!-- Other Details
+
+Student Level
+
+Undergraduate (final year) --&gt;
+&lt;p&gt;Instructed Semesters&lt;/p&gt;
+&lt;p&gt;2019 Spring&lt;/p&gt;
+&lt;p&gt;2018 Fall&lt;/p&gt;
+&lt;p&gt;2018 Spring&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
